@@ -1,0 +1,2567 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<script>
+		<no>APP-GUI-001</no>
+		<kr_a>언어선택</kr_a>
+		<kr_b>한국어</kr_b>
+		<en_a>Language</en_a>
+		<en_b>English</en_b>
+		<ch_a>语言选择</ch_a>
+		<ch_b>中文</ch_b>
+		<ja_a>言語選択</ja_a>
+		<ja_b>日本語</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-002</no>
+		<kr_b>APP에 사용 될 언어를 선택해주세요.</kr_b>
+		<en_b>Select the language to be used in the APP.</en_b>
+		<ch_b>请选择您要使用的语言。</ch_b>
+		<ja_b>アプリで使用される言語を選択してください。</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-003</no>
+		<kr_b>언어를 선택하면 다음화면으로 넘어갑니다.</kr_b>
+		<en_b>Selecting a language moves to the next page.</en_b>
+		<ch_b>选定语言后进入下一页。</ch_b>
+		<ja_b>言語を選択すると次の画面に進みます。</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-000</no>
+		<kr_b>한양도성 타임워커 AR</kr_b>
+		<en_b>Hanyangdosung Timewalker AR</en_b>
+		<ch_b>汉阳都城 · 时空行者</ch_b>
+		<ja_b>漢陽都城タイムウォーカー</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-005</no>
+		<kr_a>약관동의</kr_a>
+		<kr_b>아래 약관 내용에 동의 후 서비스 이용이 가능합니다.</kr_b>
+		<en_a>AR Service Terms and Conditions</en_a>
+		<en_b>Agree to the terms and conditions below to proceed.</en_b>
+		<ch_a>相关协议</ch_a>
+		<ch_b>同意协议后方可使用本服务。</ch_b>
+		<ja_a>約款同意</ja_a>
+		<ja_b>以下の約款内容に同意した後、サービスをご利用いただけます。</ja_b>
+		<kr_c>개인정보는 본인의 휴대폰에만 저장됩니다.</kr_c>
+		<en_c>(Hanyangdosung Timewalker does not collect any personal data)</en_c>
+		<ch_c>个人信息将仅保存于阁下的手机中。</ch_c>
+		<ja_c>個人情報は、本人の携帯電話のみに保存されます。</ja_c>
+	</script>
+	<script>
+		<no>APP-GUI-006</no>
+		<kr_b>모두 동의하기</kr_b>
+		<en_b>Agree all</en_b>
+		<ch_b>全部同意</ch_b>
+		<ja_b>すべてに同意する。</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-007</no>
+		<kr_a>AR서비스 이용 약관 동의</kr_a>
+		<kr_b>한양도성 타임워커 AR 서비스 이용 약관
+
+한양도성 타임워커 앱을 이용하는 동안 항상 주변 환경에 충분히 주의를 기울여 주십시오.
+어떤 종류의 차량, 전동, 원동기 장치 자전거, 자전거 등 운전 중 이용할 수 없습니다. 
+도보로 이동하며 이용하되 휠체어 등 장애인 보조기구를 이용 할 때는 반드시 보호자가 운행하는 환경에서 이용하여야 합니다. 
+또한 도로의 모든 교통 법규 및 규칙을 준수해야 하며 교통 및 기타 위험에 충분한 주의를 기울여야 합니다.
+
+귀하는 자신의 책임 하에 '한양도성 타임워커 AR' 앱을 이용하는데 동의합니다.
+
+귀하는 앱을 사용함으로써 또는 앱을 사용하는 동안 발생할 수 있는 부상의 위험을 감수하고 귀하는 앱을 사용하여 법, 규칙 또는 규정을 위반하지 않는데 동의할 뿐 아니라, 다른 개인이 법률, 규칙 또는 규정을 위반하도록 장려하거나 허용하지 않을 것에 동의합니다.
+
+앱을 이용하는 동안 다른 사람을 공격하거나 어떠한 방식으로든 다른 사람을 위협하거나 사유 재산을 침해하지 않을 것에 동의합니다.
+
+앱 이용 중 발생할 수 있는 해당 법률, 규칙 또는 규정 또는 귀하의 과실 또는 기타 불법 행위 책임에 대한 위반에 근거한 청구를 포함하여, 상해, 사망, 재산 피해 및 모든 종류의 책임을 초래할 수 있는 활동을 허가없이 또는 다른 방식으로 수행하는 행위에 대하여 한국문화재재단 및 (주)인디고엔터테인먼트는 관련 법률이 허용하는 한도 내에서 재산 피해, 신체 상해 또는 사망과 관련된 모든 책임을 지지 않습니다.
+
+귀하는 앱 이용 또는 본 이용 약관의 위반과 관련하여, 어떠한 방식으로든 합당한 변호사 비용을 포함하여 이에 국한되지 않는 일체의 클레임, 분쟁, 요구, 부채, 손해, 손실 및 비용 및 경비와 관련하여 한국문화재재단 및 (주)인디고엔터테인먼트의 해당 임원, 임원, 직원 및 대리인을 면책하는데 동의합니다.</kr_b>
+		<en_a>AR Service Terms and Conditions</en_a>
+		<en_b>TERMS AND CONDITIONS FOR THE USE OF HANYANGDOSUNG TIMEWALKER AR SERVICE
+
+While you are using Hanyangdosung Timewalker AR Service (the “Service”), please be aware of your surroundings.
+
+It is strictly forbidden to use the Service while driving any kind of vehicles, including without limitation, cars, bicycles, motorcycles, scooters, electric/motorized bicycles, etc. You should use the Service only while walking, or in case of using mobility assistive devices (e.g. wheelchair), only when the devices are operated by a personal assistant. You must comply with all applicable traffic laws, regulations and rules, and pay attention to road conditions and other possible accidents.
+
+You agree and acknowledge that you assume full, exclusive and sole responsibility for the use of and reliance on the Service. 
+You agree to assume all risks of injuries that may occur while using the Service. You further agree not to violate any applicable laws, and not to encourage or enable any others to do any of the foregoing, while using the Service. You agree that in conjunction with your use of the Service, you will maintain safe and appropriate contact with others. You will not harass, threaten or otherwise violate the legal rights of others.
+
+You will not engage in any activity that may violate any applicable laws and regulations, or result in injury, death, property damage, nuisance, or liability of any kind. If you have a dispute with any third party relating to your use of Service, Korea Cultural Heritage Foundation(the “Foundation”) and Indigo Entertainment Co., Ltd.(the “Company”) will not be liable for any claim, demands and damages of every kind and nature, arising out of or in any way connected with such dies, and you release the Foundation and the Company (and our officers, directors, agents, subsidiaries, joint ventures, and employees) from such claims, to the extent not prohibited by applicable laws.</en_b>
+		<ch_a>AR服务协议</ch_a>
+		<ch_b>《汉阳都城 · 时空行者 AR服务协议》
+ 
+使用《汉阳都城 · 时空行者》APP时，请随时注意周围环境。
+驾驶任何车辆（包括但不限于电动车或自行车）时请勿使用本APP。
+步行时可使用，但使用轮椅等残疾人辅助用具时，需在监护人的看护下使用本APP。
+另外，使用人必须遵守交通法规、规则，充分注意交通安全。
+ 
+阁下同意为使用本APP的行为负责。
+  
+阁下同意承担在使用应用程序时可能发生的负伤风险，阁下同意在使用本APP时不违反法律、规则或规定，也不鼓励或允许其他个人违反法律、规则或规定。
+ 
+同意在使用APP期间不攻击他人、不以任何方式威胁他人、不侵犯他人的私有财产。
+ 
+韩国文化财财团及（株）INDIGO ENTERTAINMENT在相关法律允许的范围内，不对阁下在使用APP期间可能发生的违反相关法律、规则或规定的情况，或因阁下的过失行为或其他违法行为导致伤害、死亡、财产损失及可能导致所有相关责任负责，亦不承担阁下的财产损失、身体伤害或死亡等相关责任。
+ 
+阁下同意当违反APP使用协议或本服务协议时，对韩国文化财财团及（株）INDIGO ENTERTAINMENT的相关管理层、管理人员、职员及代理人免责，包括并不限于律师费用、一切索赔、纠纷、要求、负债、损失、损失、费用及经费。</ch_b>
+		<ja_a>ARサービス利用規約に同意</ja_a>
+		<ja_b>ハニャン都城タイムウォーカーARサービス利用約款
+
+ハニャン都城のタイムウォーカーアプリをご利用の際は、常に周辺環境に十分ご注意ください。
+ある種の車両、電動、原動機付自転車、自転車などの運転中に利用できません。
+徒歩で移動して利用しますが、車椅子などの障害者補助器具を利用する際は、必ず保護者が運行する環境で利用しなければなりません。
+また、道路のすべての交通法規および規則を遵守しなければならず、交通その他の危険に十分な注意を払わなければなりません。
+
+あなたは自らの責任で「ハニャン都城タイムウォーカー」アプリを利用することに同意します。
+
+あなたはアプリの使用中に発生しうる負傷の危険を甘受し、あなたはアプリを使用して法、規則、規定に違反しないことに同意するだけでなく、他の個人が法律、規則、規定に違反するように奨励したり許容しないことに同意します。
+
+アプリを利用している間、他の人を攻撃したり、何らかの方法で他の人を脅かしたり、私有財産を侵害しないことに同意します。
+
+アプリの利用中に発生しうる当該法律、規則、規定、またはあなたの過失、またはその他不法行為責任に対する違反請求を含み、傷害、死亡、財産被害、およびあらゆる種類の責任をもたらす活動を許可なく、または他の方法で行う行為について、韓国文化財財団および(株)インディゴエンターテインメントは、関連法律が許容する限度内で、財産被害、身体傷害、または死亡に関するすべての責任を負いません。
+
+アプリの利用または本利用約款の違反に関連し、いかなる方法であれ、合理的な弁護士費用を含み、これに限定されない一切のクレーム、紛争、要求、負債、損害、損失および費用および経費に関連し、韓国文化財財団および(株)インディゴエンターテインメントの該当役員、役員、職員および代理人を免責することに同意します。</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-007-1</no>
+		<kr_a>한양도성 타임워커 AR 서비스 이용 약관</kr_a>
+		<kr_b>한양도성 타임워커 앱을 이용하는 동안 항상 주변 환경에 충분히 주의를 기울여 주십시오.
+어떤 종류의 차량, 전동, 원동기 장치 자전거, 자전거 등 운전 중 이용할 수 없습니다. 
+도보로 이동하며 이용하되 휠체어 등 장애인 보조기구를 이용 할 때는 반드시 보호자가 운행하는 환경에서 이용하여야 합니다. 
+또한 도로의 모든 교통 법규 및 규칙을 준수해야 하며 교통 및 기타 위험에 충분한 주의를 기울여야 합니다.
+
+귀하는 자신의 책임 하에 '한양도성 타임워커 AR' 앱을 이용하는데 동의합니다.
+
+귀하는 앱을 사용함으로써 또는 앱을 사용하는 동안 발생할 수 있는 부상의 위험을 감수하고 귀하는 앱을 사용하여 법, 규칙 또는 규정을 위반하지 않는데 동의할 뿐 아니라, 다른 개인이 법률, 규칙 또는 규정을 위반하도록 장려하거나 허용하지 않을 것에 동의합니다.
+
+앱을 이용하는 동안 다른 사람을 공격하거나 어떠한 방식으로든 다른 사람을 위협하거나 사유 재산을 침해하지 않을 것에 동의합니다.
+
+앱 이용 중 발생할 수 있는 해당 법률, 규칙 또는 규정 또는 귀하의 과실 또는 기타 불법 행위 책임에 대한 위반에 근거한 청구를 포함하여, 상해, 사망, 재산 피해 및 모든 종류의 책임을 초래할 수 있는 활동을 허가없이 또는 다른 방식으로 수행하는 행위에 대하여 한국문화재재단 및 (주)인디고엔터테인먼트는 관련 법률이 허용하는 한도 내에서 재산 피해, 신체 상해 또는 사망과 관련된 모든 책임을 지지 않습니다.
+
+귀하는 앱 이용 또는 본 이용 약관의 위반과 관련하여, 어떠한 방식으로든 합당한 변호사 비용을 포함하여 이에 국한되지 않는 일체의 클레임, 분쟁, 요구, 부채, 손해, 손실 및 비용 및 경비와 관련하여 한국문화재재단 및 (주)인디고엔터테인먼트의 해당 임원, 임원, 직원 및 대리인을 면책하는데 동의합니다.</kr_b>
+		<en_a>TERMS AND CONDITIONS FOR THE USE OF HANYANGDOSUNG TIMEWALKER AR SERVICE</en_a>
+		<en_b>While you are using Hanyangdosung Timewalker AR Service (the “Service”), please be aware of your surroundings.
+
+It is strictly forbidden to use the Service while driving any kind of vehicles, including without limitation, cars, bicycles, motorcycles, scooters, electric/motorized bicycles, etc. You should use the Service only while walking, or in case of using mobility assistive devices (e.g. wheelchair), only when the devices are operated by a personal assistant. You must comply with all applicable traffic laws, regulations and rules, and pay attention to road conditions and other possible accidents.
+
+You agree and acknowledge that you assume full, exclusive and sole responsibility for the use of and reliance on the Service. 
+You agree to assume all risks of injuries that may occur while using the Service. You further agree not to violate any applicable laws, and not to encourage or enable any others to do any of the foregoing, while using the Service. You agree that in conjunction with your use of the Service, you will maintain safe and appropriate contact with others. You will not harass, threaten or otherwise violate the legal rights of others.
+
+You will not engage in any activity that may violate any applicable laws and regulations, or result in injury, death, property damage, nuisance, or liability of any kind. If you have a dispute with any third party relating to your use of Service, Korea Cultural Heritage Foundation(the “Foundation”) and Indigo Entertainment Co., Ltd.(the “Company”) will not be liable for any claim, demands and damages of every kind and nature, arising out of or in any way connected with such dies, and you release the Foundation and the Company (and our officers, directors, agents, subsidiaries, joint ventures, and employees) from such claims, to the extent not prohibited by applicable laws.</en_b>
+		<ch_a>《汉阳都城 · 时空行者 AR服务协议》</ch_a>
+		<ch_b>使用《汉阳都城 · 时空行者》APP时，请随时注意周围环境。
+驾驶任何车辆（包括但不限于电动车或自行车）时请勿使用本APP。
+步行时可使用，但使用轮椅等残疾人辅助用具时，需在监护人的看护下使用本APP。
+另外，使用人必须遵守交通法规、规则，充分注意交通安全。
+ 
+阁下同意为使用本APP的行为负责。
+
+阁下同意承担在使用应用程序时可能发生的负伤风险，阁下同意在使用本APP时不违反法律、规则或规定，也不鼓励或允许其他个人违反法律、规则或规定。
+ 
+同意在使用APP期间不攻击他人、不以任何方式威胁他人、不侵犯他人的私有财产。
+ 
+韩国文化财财团及（株）INDIGO ENTERTAINMENT在相关法律允许的范围内，不对阁下在使用APP期间可能发生的违反相关法律、规则或规定的情况，或因阁下的过失行为或其他违法行为导致伤害、死亡、财产损失及可能导致所有相关责任负责，亦不承担阁下的财产损失、身体伤害或死亡等相关责任。
+ 
+阁下同意当违反APP使用协议或本服务协议时，对韩国文化财财团及（株）INDIGO ENTERTAINMENT的相关管理层、管理人员、职员及代理人免责，包括并不限于律师费用、一切索赔、纠纷、要求、负债、损失、损失、费用及经费。</ch_b>
+		<ja_a>ハニャン都城タイムウォーカーARサービス利用約款</ja_a>
+		<ja_b>ハニャン都城のタイムウォーカーアプリをご利用の際は、常に周辺環境に十分ご注意ください。
+ある種の車両、電動、原動機付自転車、自転車などの運転中に利用できません。
+徒歩で移動して利用しますが、車椅子などの障害者補助器具を利用する際は、必ず保護者が運行する環境で利用しなければなりません。
+また、道路のすべての交通法規および規則を遵守しなければならず、交通その他の危険に十分な注意を払わなければなりません。
+
+あなたは自らの責任で「ハニャン都城タイムウォーカー」アプリを利用することに同意します。
+
+あなたはアプリの使用中に発生しうる負傷の危険を甘受し、あなたはアプリを使用して法、規則、規定に違反しないことに同意するだけでなく、他の個人が法律、規則、規定に違反するように奨励したり許容しないことに同意します。
+
+アプリを利用している間、他の人を攻撃したり、何らかの方法で他の人を脅かしたり、私有財産を侵害しないことに同意します。
+
+アプリの利用中に発生しうる当該法律、規則、規定、またはあなたの過失、またはその他不法行為責任に対する違反請求を含み、傷害、死亡、財産被害、およびあらゆる種類の責任をもたらす活動を許可なく、または他の方法で行う行為について、韓国文化財財団および(株)インディゴエンターテインメントは、関連法律が許容する限度内で、財産被害、身体傷害、または死亡に関するすべての責任を負いません。
+
+アプリの利用または本利用約款の違反に関連し、いかなる方法であれ、合理的な弁護士費用を含み、これに限定されない一切のクレーム、紛争、要求、負債、損害、損失および費用および経費に関連し、韓国文化財財団および(株)インディゴエンターテインメントの該当役員、役員、職員および代理人を免責することに同意します。</ja_b>
+		<kr_c>귀하는 자신의 책임 하에 '한양도성 타임워커 AR' 앱을 이용하는데 동의합니다.
+
+귀하는 앱을 사용함으로써 또는 앱을 사용하는 동안 발생할 수 있는 부상의 위험을 감수하고 귀하는 앱을 사용하여 법, 규칙 또는 규정을 위반하지 않는데 동의할 뿐 아니라, 다른 개인이 법률, 규칙 또는 규정을 위반하도록 장려하거나 허용하지 않을 것에 동의합니다.
+
+앱을 이용하는 동안 다른 사람을 공격하거나 어떠한 방식으로든 다른 사람을 위협하거나 사유 재산을 침해하지 않을 것에 동의합니다.
+
+앱 이용 중 발생할 수 있는 해당 법률, 규칙 또는 규정 또는 귀하의 과실 또는 기타 불법 행위 책임에 대한 위반에 근거한 청구를 포함하여, 상해, 사망, 재산 피해 및 모든 종류의 책임을 초래할 수 있는 활동을 허가없이 또는 다른 방식으로 수행하는 행위에 대하여 한국문화재재단 및 (주)인디고엔터테인먼트는 관련 법률이 허용하는 한도 내에서 재산 피해, 신체 상해 또는 사망과 관련된 모든 책임을 지지 않습니다.
+
+귀하는 앱 이용 또는 본 이용 약관의 위반과 관련하여, 어떠한 방식으로든 합당한 변호사 비용을 포함하여 이에 국한되지 않는 일체의 클레임, 분쟁, 요구, 부채, 손해, 손실 및 비용 및 경비와 관련하여 한국문화재재단 및 (주)인디고엔터테인먼트의 해당 임원, 임원, 직원 및 대리인을 면책하는데 동의합니다.</kr_c>
+		<en_c>You agree and acknowledge that you assume full, exclusive and sole responsibility for the use of and reliance on the Service. 
+You agree to assume all risks of injuries that may occur while using the Service. You further agree not to violate any applicable laws, and not to encourage or enable any others to do any of the foregoing, while using the Service. You agree that in conjunction with your use of the Service, you will maintain safe and appropriate contact with others. You will not harass, threaten or otherwise violate the legal rights of others.
+
+You will not engage in any activity that may violate any applicable laws and regulations, or result in injury, death, property damage, nuisance, or liability of any kind. If you have a dispute with any third party relating to your use of Service, Korea Cultural Heritage Foundation(the “Foundation”) and Indigo Entertainment Co., Ltd.(the “Company”) will not be liable for any claim, demands and damages of every kind and nature, arising out of or in any way connected with such dies, and you release the Foundation and the Company (and our officers, directors, agents, subsidiaries, joint ventures, and employees) from such claims, to the extent not prohibited by applicable laws.</en_c>
+		<ch_c>阁下同意承担在使用应用程序时可能发生的负伤风险，阁下同意在使用本APP时不违反法律、规则或规定，也不鼓励或允许其他个人违反法律、规则或规定。
+ 
+同意在使用APP期间不攻击他人、不以任何方式威胁他人、不侵犯他人的私有财产。
+ 
+韩国文化财财团及（株）INDIGO ENTERTAINMENT在相关法律允许的范围内，不对阁下在使用APP期间可能发生的违反相关法律、规则或规定的情况，或因阁下的过失行为或其他违法行为导致伤害、死亡、财产损失及可能导致所有相关责任负责，亦不承担阁下的财产损失、身体伤害或死亡等相关责任。
+ 
+阁下同意当违反APP使用协议或本服务协议时，对韩国文化财财团及（株）INDIGO ENTERTAINMENT的相关管理层、管理人员、职员及代理人免责，包括并不限于律师费用、一切索赔、纠纷、要求、负债、损失、损失、费用及经费。</ch_c>
+		<ja_c>あなたはアプリの使用中に発生しうる負傷の危険を甘受し、あなたはアプリを使用して法、規則、規定に違反しないことに同意するだけでなく、他の個人が法律、規則、規定に違反するように奨励したり許容しないことに同意します。
+
+アプリを利用している間、他の人を攻撃したり、何らかの方法で他の人を脅かしたり、私有財産を侵害しないことに同意します。
+
+アプリの利用中に発生しうる当該法律、規則、規定、またはあなたの過失、またはその他不法行為責任に対する違反請求を含み、傷害、死亡、財産被害、およびあらゆる種類の責任をもたらす活動を許可なく、または他の方法で行う行為について、韓国文化財財団および(株)インディゴエンターテインメントは、関連法律が許容する限度内で、財産被害、身体傷害、または死亡に関するすべての責任を負いません。
+
+アプリの利用または本利用約款の違反に関連し、いかなる方法であれ、合理的な弁護士費用を含み、これに限定されない一切のクレーム、紛争、要求、負債、損害、損失および費用および経費に関連し、韓国文化財財団および(株)インディゴエンターテインメントの該当役員、役員、職員および代理人を免責することに同意します。</ja_c>
+	</script>
+	<script>
+		<no>APP-GUI-008</no>
+		<kr_a>데이터 사용량 경고</kr_a>
+		<kr_b>한양도성 타임워커 APP은 초고화질 대용량 5G AR콘텐츠로, 5GB이상의 대용량 데이터 다운로드가 필요합니다. 가입하신 요금제의 데이터 제공량에 따라 추가요금이 발생할 수 있음을 안내 드립니다.</kr_b>
+		<en_a>Data usage warning</en_a>
+		<en_b>The Hanyangdosung Timewalker APP is an HD, large 5G AR content which requires 5GB worth of download capacity or more. Please note that additional charges may apply depending on the amount of data provided in the subscription plan.</en_b>
+		<ch_a>大容量警告</ch_a>
+		<ch_b>《汉阳都城 · 时空行者》APP为超高画质大容量5G AR产品，需要下载5GB以上的大容量数据。有可能出现超过阁下使用的当月流量，致阁下需支付超额部分的情况。</ch_b>
+		<ja_a>データ使用量警告</ja_a>
+		<ja_b>ハニャン都城タイムウォーカーAPPは超高画質大容量5GARコンテンツで、5GB以上の大容量データのダウンロードが必要です。 ご登録いただいた料金プランのデータ提供量によって追加料金が発生することがあることをご了承ください。</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-009</no>
+		<kr_a>체험방법</kr_a>
+		<kr_b>와이파이를 통해 모든 콘텐츠를 미리 다운로드 받고 체험해 보세요.</kr_b>
+		<en_a>Data Access</en_a>
+		<en_b>Download all content in advance via Wi-Fi for more convenient experience.</en_b>
+		<ch_a>体验方法</ch_a>
+		<ch_b>请使用WIFI下载所需的所有数据。</ch_b>
+		<ja_a>体験方法</ja_a>
+		<ja_b>Wi-Fiですべてのコンテンツをダウンロードして体験してみてください。</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-010</no>
+		<kr_b>체험시작하기</kr_b>
+		<en_b>Start exploring</en_b>
+		<ch_b>开始体验</ch_b>
+		<ja_b>体験を始める</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-011</no>
+		<kr_b>모바일 데이터를 이용하여 바로 체험해 보세요.</kr_b>
+		<en_b>Try exploring using mobile data.</en_b>
+		<ch_b>使用移动数据开始体验。</ch_b>
+		<ja_b>モバイルデータを利用して今すぐ体験してください。</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-012</no>
+		<kr_b>체험시작하기</kr_b>
+		<en_b>Start exploring</en_b>
+		<ch_b>开始体验</ch_b>
+		<ja_b>体験を始める</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-013</no>
+		<kr_a>처음부터 시작하기</kr_a>
+		<kr_b>처음부터 시작할 경우 모든 데이터가 초기화 됩니다!</kr_b>
+		<en_a>Start from the beginning</en_a>
+		<en_b>If you start from the beginning, all data will be initialized!</en_b>
+		<ch_a>重新开始</ch_a>
+		<ch_b>选择重新开始，则所有数据将初始化。</ch_b>
+		<ja_a>最初から始める</ja_a>
+		<ja_b>最初から始めると、すべてのデータが初期化されます！</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-014</no>
+		<kr_a>이어하기</kr_a>
+		<en_a>Resume</en_a>
+		<ch_a>继续</ch_a>
+		<ja_a>再開する</ja_a>
+	</script>
+	<script>
+		<no>APP-INT-001</no>
+		<kr_b>아주 먼 옛날, 먼 우주의 거대 행성이 폭발하여 거대한 블랙홀이 형성되었고 이로 인해 강력한 중력파가 발생했다. 이 강력한 중력파가 바로 어제, 우리 지구에 충돌하며 시간의 틈이 벌어지고 시공간의 왜곡이 시작되었다. 이 틈을 메우려면 강력한 반중력 암흑에너지가 있어야 한다.</kr_b>
+		<en_b>Once upon a time, a giant planet in a distant universe exploded, forming a huge black hole, resulting in a powerful gravitational wave. Just yesterday, this powerful gravitational wave hit our Earth, opening a gap in time and beginning to distort time and space. To fill this gap, strong anti-gravity dark energy must be obtained</en_b>
+		<ch_b>很久很久以前，在遥远的宇宙中，一颗巨大的行星爆炸致使黑洞生成，并产生了巨大的冲击波。昨日，冲击波撞击地球，使地球产生了时间裂缝，时空发生扭曲。要填补该裂缝，必须有强大的反重力暗能量。</ch_b>
+		<ja_b>はるか遠い昔、遠い宇宙の巨大惑星が爆発して巨大なブラックホールが形成され、これによって強力な重力波が発生した。強力な重力波が昨日、我が地球に衝突し、時間の隙間ができ、時空間のゆがみが始まった。その隙間を埋めるには、強力な反重力暗黒エネルギーがなければならない。</ja_b>
+	</script>
+	<script>
+		<no>APP-INT-002</no>
+		<kr_b>안녕하십니까. 시간교정국의 김국장국장입니다. 우리는 세계의 시공간을 통제하고 관리하는 단체지요.
+
+우리 단체는 서기 1533년, 조선 제 11대 왕이었던 중종의 재위 28년이 되던 해, 엄청난 유성우와 함께 반중력 암흑에너지를 가지고 있는 운석이 한양도성에 떨어지면서 시작되었습니다. 암흑에너지를 두려워한 중종은 운석을 아무도 손이 닫지 않는 곳에 감추었고, 그 장소의 단서인 지도를 분해하여 궁내의 여러 장소에 숨겼지요. 우리는 그 단서들을 모두 찾아 운석을 손에 넣었고, 그 힘을 이용하여 세계를 평화롭게 지키고 있었습니다. 
+
+그러나 어제 발생한 강력한 중력파로 인해 우리가 가지고 있던 운석이 파괴되어 시간교정국의 모든 시스템이 마비됐습니다. 또한 이 충격으로 인해 시공간의 틈이 생겨났고, 이 틈은 지금도 점점 커지고 있어 앞으로 24시간 후면 돌이킬 수 없는 시간의 왜곡이 생길 것입니다. 한 가지 희망은 당신과 당신이 설치한 이 타임워커 APP입니다.
+이제 당신은 타임워커로써 APP을 이용해 행성 폭발이 일어나지 않은 당신만의 평행 세계로 들어가 암흑운석을 찾고, 그 힘을 이용해 시공간의 틈을 제거해야합니다.</kr_b>
+		<en_b>Hello there! This is Director Kim, from the Time Correction Bureau. We are an organization that controls and manages the space and time of the world.
+
+Our organization began in 1533, the 28th year of the reign of King Jungjong, the 11th king of the Joseon Dynasty, when a meteor shower and a meteorite with anti-gravity dark energy fell in Hanyang the capital city of the Joseon Dynasty. Afraid of the dark energy, King Jungjong hid the meteorite in a place where no one could reach, and destroyed the map, which was the clue to the site, and hid them in various places in the Gyeongbokgung Palace. We found all the clues and took possession of the meteorite, and we were using its power to keep the world at peace. 
+
+But yesterday's powerful gravitational wave shock destroyed the meteorite we had and disabled all our systems. The impact also created a gap in time and space, which is still expanding, and will create an irreversible distortion of time in the next 24 hours. You and this Timewalker app is our last hope.  Now, as a Timewalker, you can use the app to go into your own parallel world where there's no planet explosion, find a dark meteorite. You should use that power to eliminate void in time and space.</en_b>
+		<ch_b>各位好，我是时间管理局局长。时间管理局是管理世界时间与空间的机构。
+ 我们机构始于公元1533年，即朝鲜第11代王中宗在位的第28年。那一年，伴随着巨大的流星雨，具有反重力暗能量的陨石落入汉阳都城。中宗害怕暗能量，将陨石藏在无人可及的地方，并把唯一的线索——地图拆分为多块，藏在宫内多个场所。 我们找到了所有的地图碎片，拿到了陨石，并利用陨石的能量守护着世界的和平。
+ 可是，昨日由于冲击波的撞击，我们所持的陨石受到破坏，时间管理局的所有系统均瘫痪。不仅如此，冲击波还导致时空裂缝产生，裂缝正在扩大中，24小时后，由此造成的时间扭曲将无法挽回。现在，您与您设置的时空行者APP是我们唯一的希望。
+ 您将作为时空行者，利用APP回到行星爆炸前您所在的平行世界，找到暗陨石，并利用它的能量消除时空裂缝。</ch_b>
+		<ja_b>こんにちは。時間矯正局の局長です。 私たちは世界の時空間を統制·管理する団体です。
+
+当団体は、西暦1533年、朝鮮第11代王の中宗が在位28年の年、おびただしい流星雨とともに、反重力暗黒エネルギーを持つ隕石がハニャン都城に落ちたことから始まりました。 暗黒エネルギーを恐れた中宗は、隕石を誰も手が動かない場所に隠し、その場所の手がかりである地図を切り分けパズルにして、宮内の様々な場所に隠しました。 私たちはそのパズルのピースをすべて探し出し、隕石を手に入れ、その力を利用して、世界の平和を守っていました。
+
+しかし、昨日発生した強力な重力波によって、私たちが持っていた隕石が破壊され、時間矯正局の全システムが麻痺しました。また、この衝撃によって時空間に隙間ができ、この隙間は今もだんだん大きくなっていて、これから24時間後には取り返しのつかない時間のゆがみが生じるでしょう。一つの希望は、あなたとあなたが設置したタイムウォーカー・アプリです。
+これからは、タイムウォーカーとしてアプリを利用して惑星爆発が起きていない、あなただけの平行世界に入り、暗黒隕石を探し、
+その力を利用して時空の隙間を消さなければなりません。</ja_b>
+	</script>
+	<script>
+		<no>APP-INT-003</no>
+		<kr_b>시간교정국에서 제공하는 미니맵을 이용하면 어렵지 않게 단서들을 찾을 수 있을 것입니다. 부디 늦지않게 돌아와 시공간의 왜곡을 막아주기 바랍니다.</kr_b>
+		<en_b>Using the minimap provided by the Time Correction Bureau, you will be able to find clues easily.
+Please come back in time to restore time and space.</en_b>
+		<ch_b>时间管理局将为您提供迷你地图，它将帮助您找到暗陨石的线索。请您一定要及时赶回来，阻止时空扭曲的发生！</ch_b>
+		<ja_b>時間矯正局が提供するミニマップを利用すれば、簡単に地図のピースを見つけることができるでしょう。 どうか、遅れずに戻ってきて、時空間がゆがまないよう防いでください。</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-015</no>
+		<kr_b>이름과 사진을 입력하면 임무가 시작됩니다.</kr_b>
+		<en_b>Insert your name and image to start your mission</en_b>
+		<ch_b>请上传您的名字与照片，任务即将开启。</ch_b>
+		<ja_b>名前と写真を入力すると任務が始まります。</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-016</no>
+		<kr_b>이름을 입력하세요.</kr_b>
+		<en_b>Insert your name</en_b>
+		<ch_b>请输入您的名字。</ch_b>
+		<ja_b>名前を入力してください。</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-017</no>
+		<kr_b>사진을 넣어주세요.</kr_b>
+		<en_b>Import a picture</en_b>
+		<ch_b>请上传您的照片。</ch_b>
+		<ja_b>写真を入れてください。</ja_b>
+		<kr_c>갤러리에서 사진 가져오기</kr_c>
+		<en_c>Import a picture from gallery to upload</en_c>
+		<ch_c>相册</ch_c>
+		<ja_c>ギャラリーからアップする</ja_c>
+	</script>
+	<script>
+		<no>APP-GUI-018</no>
+		<kr_c>카메라로 사진 찍어올리기</kr_c>
+		<en_c>Take a picture to upload</en_c>
+		<ch_c>拍照</ch_c>
+		<ja_c>カメラで写真をアップする</ja_c>
+	</script>
+	<script>
+		<no>APP-GUI-019</no>
+		<kr_a>체험 선택하기</kr_a>
+		<kr_b>스마트폰용 VR</kr_b>
+		<en_a>Select participation</en_a>
+		<en_b>Mobile VR</en_b>
+		<ch_a>选择体验项目</ch_a>
+		<ch_b>智能手机VR</ch_b>
+		<ja_a>体験を選択する</ja_a>
+		<ja_b>スマートフォン用VR</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-020</no>
+		<kr_b>체험형 AR</kr_b>
+		<en_b>Immersive AR</en_b>
+		<ch_b>体验型AR</ch_b>
+		<ja_b>体験型AR</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-021</no>
+		<kr_a>메뉴</kr_a>
+		<kr_b>마커 재설정하기</kr_b>
+		<en_a>Menu</en_a>
+		<en_b>Reset marker</en_b>
+		<ch_a>菜单</ch_a>
+		<ch_b>重设标记</ch_b>
+		<ja_a>メニュー</ja_a>
+		<ja_b>マーカーの再設定</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-022</no>
+		<kr_b>미니맵보기</kr_b>
+		<en_b>View minimap</en_b>
+		<ch_b>查看迷你地图</ch_b>
+		<ja_b>ミニマップを見る</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-023</no>
+		<kr_b>등록증 확인하기</kr_b>
+		<en_b>Check registration card</en_b>
+		<ch_b>查看注册证书</ch_b>
+		<ja_b>登録証を確認する</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-024</no>
+		<kr_b>수료증 확인하기</kr_b>
+		<en_b>Check certification</en_b>
+		<ch_b>查看修了证书</ch_b>
+		<ja_b>修了証を確認する</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-025</no>
+		<kr_b>환경설정</kr_b>
+		<en_b>Setting</en_b>
+		<ch_b>设置</ch_b>
+		<ja_b>環境設定</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-026</no>
+		<kr_b>화면품질</kr_b>
+		<en_b>Screen quality</en_b>
+		<ch_b>画质</ch_b>
+		<ja_b>画面品質</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-026-2</no>
+		<kr_a>낮음</kr_a>
+		<kr_b>중간</kr_b>
+		<en_a>Low</en_a>
+		<en_b>Medium</en_b>
+		<ch_a>低</ch_a>
+		<ch_b>中</ch_b>
+		<ja_a>低</ja_a>
+		<ja_b>中</ja_b>
+		<kr_c>높음</kr_c>
+		<en_c>High</en_c>
+		<ch_c>高</ch_c>
+		<ja_c>高</ja_c>
+	</script>
+	<script>
+		<no>APP-GUI-027</no>
+		<kr_b>품질이 높을수록 고사양이 요구됩니다.</kr_b>
+		<en_b>The higher the quality, the higher the specifications are required.</en_b>
+		<ch_b>品质越高，要求配置越高</ch_b>
+		<ja_b>品質が高いほどハイスペックが要求されます。</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-028</no>
+		<kr_b>볼륨조절</kr_b>
+		<en_b>Volume control</en_b>
+		<ch_b>音量调节</ch_b>
+		<ja_b>ボリューム調節</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-029</no>
+		<kr_b>메인화면으로 돌아가기</kr_b>
+		<en_b>Return to main page</en_b>
+		<ch_b>回到主画面</ch_b>
+		<ja_b>メイン画面に戻る</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-030</no>
+		<kr_b>원래 세계로 돌아가기</kr_b>
+		<en_b>Return to the original world</en_b>
+		<ch_b>回到原来的世界</ch_b>
+		<ja_b>元の世界に戻る</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-031</no>
+		<kr_b>나가기</kr_b>
+		<en_b>Exit</en_b>
+		<ch_b>离开</ch_b>
+		<ja_b>退出する</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-032</no>
+		<kr_a>타임워커 등록증</kr_a>
+		<kr_b>축하합니다!</kr_b>
+		<en_a>Timewalker registration card</en_a>
+		<en_b>Congratulations!</en_b>
+		<ch_a>时空行者注册证</ch_a>
+		<ch_b>恭喜您成为时空行者</ch_b>
+		<ja_a>タイムウォーカー登録証</ja_a>
+		<ja_b>おめでとうございます！</ja_b>
+		<kr_c>타임워커로 등록되었습니다.</kr_c>
+		<en_c>You are now registered as a Timewalker.</en_c>
+		<ja_c>タイムウォーカーとして登録されました。</ja_c>
+	</script>
+	<script>
+		<no>APP-GUI-033</no>
+		<kr_b>등급</kr_b>
+		<en_b>Level</en_b>
+		<ch_b>等级</ch_b>
+		<ja_b>等級</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-034</no>
+		<kr_b>위 사람을 정식 시간교정국 타임워커로 임명합니다.</kr_b>
+		<en_b>You are now officially appointed as the Timewalker of Time Correction Bureau.</en_b>
+		<ch_b>任命此人为时间管理局正式时空行者。</ch_b>
+		<ja_b>上記の人を正式時間矯正局タイムウォーカーに任命します。</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-035</no>
+		<kr_b>바코드는 일회성이며, 판매자만 터치하여 사용해야합니다. 사용자가 터치하여 비활성화 될시 책임지지 않습니다.</kr_b>
+		<en_b>This barcode is an one-time usage, and so only the seller should handle it. Please advised that we are not responsible for mishandling or deactivating by the user.</en_b>
+		<ch_b>二维码为一次性二维码，由售卖方扫码使用。使用者扫码导致无法激活时，我方不承担责任。</ch_b>
+		<ja_b>バーコードは1回限りであり、販売者のみタッチしてお使いください。 使用者がタッチして無効になった場合、責任を負いません。</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-036</no>
+		<kr_b>이미 사용한 바코드입니다.</kr_b>
+		<en_b>This is a barcode that has already been used.</en_b>
+		<ch_b>该二维码已被使用。</ch_b>
+		<ja_b>使用済みのバーコードです。</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-037</no>
+		<kr_b>미션 달성도에 따라 승급이 가능합니다.</kr_b>
+		<en_b>You can upgrade according to your mission achievement.</en_b>
+		<ch_b>根据任务达成度进行升级</ch_b>
+		<ja_b>ミッション達成度によって昇級が可能です。</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-038</no>
+		<kr_b>모든 미션을 완료한 후 수료증을 확인해 주세요.</kr_b>
+		<en_b>After completing all the missions, please check the certification of completion.</en_b>
+		<ch_b>请完成所有任务后查看修了证书。</ch_b>
+		<ja_b>すべてのミッションを完了した後、修了証をご確認ください。</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-039</no>
+		<kr_a>수료증</kr_a>
+		<kr_b>축하합니다!</kr_b>
+		<en_a>Certification</en_a>
+		<en_b>Congratulations!</en_b>
+		<ch_a>修了证书</ch_a>
+		<ch_b>恭喜</ch_b>
+		<ja_a>修了証</ja_a>
+		<ja_b>おめでとうございます！</ja_b>
+		<kr_c>타임워커로서 모든 임무를 완수하셨습니다.</kr_c>
+		<en_c>As a Timewalker, you have completed all of your missions.</en_c>
+		<ch_c>您作为时空行者完成所有任务！</ch_c>
+		<ja_c>タイムウォーカーとしての全ての任務を完遂しました。</ja_c>
+	</script>
+	<script>
+		<no>APP-GUI-040</no>
+		<kr_b>발급기관</kr_b>
+		<en_b>Issuing agency</en_b>
+		<ch_b>发行机构</ch_b>
+		<ja_b>発給機関</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-041</no>
+		<kr_b>위 사람은 시간교정국의 임무를 받아 타임워커로서의 소명을 다 하였기에 이 증서를 드립니다.</kr_b>
+		<en_b>This Timewalker is granted with this certificate as all the duties given from the Time Correction Bureau have been accomplished successfully.</en_b>
+		<ch_b>此人接受时间管理局之任务，完成了作为时空行者之使命，特颁发此证书。</ch_b>
+		<ja_b>上記の人は時間矯正局の任務を受け、タイムウォーカーとしての使命を果たしたため、この証書を贈ります。</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-042</no>
+		<kr_b>설정창에서 수시로 확인이 가능합니다.</kr_b>
+		<en_b>This can be found in the settings page at any time.</en_b>
+		<ch_b>可随时在设置窗口确认</ch_b>
+		<ja_b>設定ウィンドウで随時確認ができます。</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-043</no>
+		<kr_a>초급</kr_a>
+		<kr_b>초급 타임워커</kr_b>
+		<en_a>Beginner</en_a>
+		<en_b>Beginner Timewalker</en_b>
+		<ch_a>初级</ch_a>
+		<ch_b>初级时空行者</ch_b>
+		<ja_a>初級</ja_a>
+		<ja_b>初級タイムウォーカー</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-044</no>
+		<kr_a>중급</kr_a>
+		<kr_b>중급 타임워커</kr_b>
+		<en_a>Intermediate</en_a>
+		<en_b>Intermediate Timewalker</en_b>
+		<ch_a>中级</ch_a>
+		<ch_b>中级时空行者</ch_b>
+		<ja_a>中級</ja_a>
+		<ja_b>中級タイムウォーカー</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-045</no>
+		<kr_a>마스터</kr_a>
+		<kr_b>마스터 타임워커</kr_b>
+		<en_a>Master</en_a>
+		<en_b>Master Timewalker</en_b>
+		<ch_a>大师</ch_a>
+		<ch_b>大师级时空行者</ch_b>
+		<ja_a>マスター</ja_a>
+		<ja_b>マスター・タイムウォーカー</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-046</no>
+		<kr_b>6개의 지도조각 획득!</kr_b>
+		<en_b>Retrieved 6 map pieces!</en_b>
+		<ch_b>获得6块地图碎片！</ch_b>
+		<ja_b>6つの地図のピース獲得！</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-047</no>
+		<kr_b>중급 타임워커로 승격!</kr_b>
+		<en_b>Advance to Intermediate Timewalker!</en_b>
+		<ch_b>升级为中级时空行者！</ch_b>
+		<ja_b>中級タイムウォーカーに昇格！</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-048</no>
+		<kr_b>12개의 지도조각 획득!</kr_b>
+		<en_b>Retrieved 12 map pieces!</en_b>
+		<ch_b>获得12块地图碎片！</ch_b>
+		<ja_b>12の地図のピース獲得！</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-049</no>
+		<kr_a>시간 교정국</kr_a>
+		<kr_b>지금부터 당신은 시간교정국에 소속된 타임워커 요원입니다. 당신에게 지정된 평행 세계로 들어가 반중력 에너지를 찾아 돌아오세요.</kr_b>
+		<en_a>Time correction bureau</en_a>
+		<en_b>From now on, you are a Timewalker agent from the Time Correction Bureau. Enter the parallel world assigned to you and return in search of anti-gravity energy.</en_b>
+		<ch_a>时间管理局</ch_a>
+		<ch_b>从现在开始，您将成为时间管理局所属时空行者。请前往指定的平行世界，找到反重力能量。期待您的归来。</ch_b>
+		<ja_a>時間矯正局</ja_a>
+		<ja_b>今からあなたは時間矯正局所属の要員（タイムウォーカー）です。
+指定の平行世界に入り、反重力エネルギーを探し出し、帰還してください。</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-050</no>
+		<kr_a>경고 메세지</kr_a>
+		<kr_b>마지막으로 꼭 명심해야 할 것은 미션수행 중 타임워커 APP을 지우거나 휴대폰을 분실하면 당신의 세계로 돌아올 수 없습니다. 
+주의 바랍니다.</kr_b>
+		<en_a>Warning</en_a>
+		<en_b>Remember, you won't be able to return to this world if you delete the Timewalker app or lose your phone during the mission. Please stay wary.</en_b>
+		<ch_a>警告</ch_a>
+		<ch_b>警告！若在执行任务时删除时光行者APP或丢失手机，则无法返回您本来所在的世界。请铭记。</ch_b>
+		<ja_a>警告メッセージ</ja_a>
+		<ja_b>最後に、必ず覚えておかなければならないことは、ミッション遂行中にタイムウォーカーのAPPを削除したり携帯電話を紛失したりしたら、あなたの世界に戻れません。
+ご注意ください。</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-051</no>
+		<kr_b>위쪽 하늘을 비추면 시간의 틈이 보입니다.</kr_b>
+		<en_b>Point your phone towards the sky above to see the gap in time.</en_b>
+		<ch_b>照射上方的天空，可以看到时空裂缝。</ch_b>
+		<ja_b>上の方の空を照らすと時間の隙間が見えます。</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-052</no>
+		<kr_b>바닥을 비추고 360도를 돌아 평행 세계로 가는 스페이스 게이트를 찾으세요.</kr_b>
+		<en_b>Shine the floor and turn 360 degrees to find the space gate that goes into the parallel world.</en_b>
+		<ch_b>照射地面，旋转360度，找到进入平行世界的时空门。</ch_b>
+		<ja_b>地面を透かして360度を回って平行世界へ行くスペースゲートを探してみましょう。</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-053</no>
+		<kr_b>화살표를 따라 스페이스 게이트를 통과하세요.</kr_b>
+		<en_b>Follow the arrows through the space gate.</en_b>
+		<ch_b>请按照箭头指示通过时空门。</ch_b>
+		<ja_b>矢印に従ってスペースゲートを通過してください。</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-054</no>
+		<kr_b>이 세계는 당신이 살고 있던 세계가 아닙니다.</kr_b>
+		<en_b>This world is not the world you were living in.</en_b>
+		<ch_b>此世界并非您生活过的世界。</ch_b>
+		<ja_b>この世界はあなたが住んでいた世界ではありません。</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-055</no>
+		<kr_b>미니맵에서 단서들의 위치를 확인하고 이동하세요.</kr_b>
+		<en_b>Check the location of the clues on the minimap and move.</en_b>
+		<ch_b>请确认迷你地图上线索的位置并移动。</ch_b>
+		<ja_b>ミニマップで手掛かりの位置を確認して移動してください。</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-056</no>
+		<kr_b>다음 임무장소를 선택하여 임무를 진행해 주세요.</kr_b>
+		<en_b>Select the next mission location to proceed with the mission.</en_b>
+		<ch_b>请选择下一个任务场所执行任务。</ch_b>
+		<ja_b>次の任務場所を選択して任務を遂行してください。</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-057</no>
+		<kr_b>스마트 폰 용 VR</kr_b>
+		<en_b>Mobile VR</en_b>
+		<ch_b>智能手机VR</ch_b>
+		<ja_b>スマホ用VR</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-058</no>
+		<kr_b>체험형 AR</kr_b>
+		<en_b>Immersive AR</en_b>
+		<ch_b>体验型AR</ch_b>
+		<ja_b>体験型AR</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-059</no>
+		<kr_b>이동시 위험요소가 없는지 주변을 살피세요.</kr_b>
+		<en_b>When moving, look around to see if there are any hazards.</en_b>
+		<ch_b>移动时请注意周围是否有危险。</ch_b>
+		<ja_b>移動時に危険要素がないか、周りをよく見てください。</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-060</no>
+		<kr_b>영제교</kr_b>
+		<en_b>Yeongjegyo Bridge</en_b>
+		<ch_b>永齐桥</ch_b>
+		<ja_b>永済橋</ja_b>
+		<kr_c>속세와 임금의 공간을 나누는 다리
+
+흥례문과 근정문 사이를 흐르는 금천을 건너는 다리로 악한 기운을 막아준다.</kr_c>
+		<en_c>A bridge that divides the space between the secular life and the king.
+
+Crossing the bridge on Geumcheon stream, between Heungryemun Gate and Geunjeongmun Gate, will block evil energy.</en_c>
+		<ch_c>将王的空间与俗世分开的桥
+
+横架于流淌在兴礼门与勤政门间的锦川之上，阻挡恶气运之桥。</ch_c>
+		<ja_c>俗世と王の空間を分ける橋
+
+興礼門（フンニェムン）と勤政門（クンジョンムン）の間を流れる、錦川を渡る橋で、邪気を防いでくれる。</ja_c>
+	</script>
+	<script>
+		<no>APP-GUI-061</no>
+		<kr_b>품계석</kr_b>
+		<en_b>The Rank Stone</en_b>
+		<ch_b>品阶石</ch_b>
+		<ja_b>品階石</ja_b>
+		<kr_c>근정전 앞의 품계를 알려주는 표시석
+
+근정전 앞에서 조회 등의 행사를 할 때, 신하들이 벼슬 서열 순으로 서 있을 수 있도록 세운 표시석.</kr_c>
+		<en_c>Stones indicating rank at Geunjeongjeon Hall. 
+
+The marks indicated where the court officials lined up in order of rank during official functions at Geunjeongjeon Hall.</en_c>
+		<ch_c>勤政殿前标记有品阶的石头
+
+在勤政殿前举行朝会等活动时，帮助大臣们按照官位顺序排列的石头。</ch_c>
+		<ja_c>勤政殿の前にある位を示す表示石
+
+勤政殿の前で朝会などの行事を行う際、臣下達が官職序列の順に並べるように立てられた表示石。</ja_c>
+	</script>
+	<script>
+		<no>APP-GUI-062</no>
+		<kr_b>근정전 상.하월대 신수</kr_b>
+		<en_b>Geunjeongjeon Hall (The Throne Hall)
+Sang/Hawoldae(Upper/lower foundation)</en_b>
+		<ch_b>勤政殿上、下月台神兽</ch_b>
+		<ja_b>勤政殿　上・下月台神獣</ja_b>
+		<kr_c>4방신, 12지신, 해태
+근정전을 지키는 동물모양 석상들</kr_c>
+		<en_c>4 Bangshin, 12 Jishin, Haetae
+
+Animal-shaped stone statues guarding Geunjeongjeon Hall (The Throne Hall)</en_c>
+		<ch_c>四方神、十二支神、獬豸
+守护勤政殿的动物石像</ch_c>
+		<ja_c>四方神、十二支神、ヘテ
+勤政殿を守る動物の形の石像</ja_c>
+	</script>
+	<script>
+		<no>APP-GUI-063</no>
+		<kr_b>근정전</kr_b>
+		<en_b>Geunjeongjeon Hall (The Throne Hall)</en_b>
+		<ch_b>勤政殿</ch_b>
+		<ja_b>勤政殿</ja_b>
+		<kr_c>국가의 중대한 의식이 거행되는 경복궁의 중심. 정전.</kr_c>
+		<en_c>The Throne Hall. 
+
+The center of Gyeongbokgung Palace, where important national ceremony is held.</en_c>
+		<ch_c>举行国家重大仪式的景福宫的中心、正殿</ch_c>
+		<ja_c>国家の重大な儀式が行われる景福宮の中心。 正殿</ja_c>
+	</script>
+	<script>
+		<no>APP-GUI-064</no>
+		<kr_b>일월오봉도</kr_b>
+		<en_b>Sun, Moon and Five Peaks</en_b>
+		<ch_b>日月五峰图</ch_b>
+		<ja_b>日月五峰図</ja_b>
+		<kr_c>어진 왕이 다스리는 세상</kr_c>
+		<en_c>A world ruled by a virtuous king</en_c>
+		<ch_c>贤明的君王治理的江山</ch_c>
+		<ja_c>善良で賢い王の治世</ja_c>
+	</script>
+	<script>
+		<no>APP-GUI-065</no>
+		<kr_b>어좌</kr_b>
+		<en_b>Eojwa(The throne)</en_b>
+		<ch_b>御座</ch_b>
+		<ja_b>御座（ござ）</ja_b>
+		<kr_c>왕의 의자</kr_c>
+		<en_c>King's throne</en_c>
+		<ch_c>王的椅子</ch_c>
+		<ja_c>王の椅子</ja_c>
+	</script>
+	<script>
+		<no>APP-GUI-066</no>
+		<kr_b>왕의 모습</kr_b>
+		<en_b>Image of the king</en_b>
+		<ch_b>王</ch_b>
+		<ja_b>王の姿</ja_b>
+		<kr_c>어좌에 앉아 집무중인 왕의 모습</kr_c>
+		<en_c>The king sitting on the Eojwa(the throne) in  Geunjeongjeon Hall.</en_c>
+		<ch_c>坐于御座上处理政务的王的样子</ch_c>
+		<ja_c>御座に座って執務中の王の姿</ja_c>
+	</script>
+	<script>
+		<no>APP-GUI-067</no>
+		<kr_b>칠조룡</kr_b>
+		<en_b>Chiljoryong</en_b>
+		<ch_b>七爪龙</ch_b>
+		<ja_b>七爪龍（チルジョリョン）</ja_b>
+		<kr_c>왕의 위엄을 보여주는 7개 발톱의 용</kr_c>
+		<en_c>Seven-clawed dragon shows the dignity of the king</en_c>
+		<ch_c>展示王的威严，具有七爪的龙</ch_c>
+		<ja_c>王の威厳を示す7つの足の爪を持つ龍</ja_c>
+	</script>
+	<script>
+		<no>APP-GUI-068</no>
+		<kr_b>경회루 용승천</kr_b>
+		<en_b>Gyeonghoeru Dragon</en_b>
+		<ch_b>庆会楼 龙升天</ch_b>
+		<ja_b>慶会楼の龍昇天</ja_b>
+		<kr_c>경회루에서 만나보는 용</kr_c>
+		<en_c>Meeting dragon of Gyeonghoeru</en_c>
+		<ch_c>在庆会楼的龙像</ch_c>
+		<ja_c>慶会楼で出会う龍</ja_c>
+	</script>
+	<script>
+		<no>APP-GUI-069</no>
+		<kr_b>경회루 앞 연못에서 뱃놀이</kr_b>
+		<en_b>Boating in the pond in front of Gyeonghoeru</en_b>
+		<ch_b>在庆会楼的莲池中乘船游玩</ch_b>
+		<ja_b>慶会楼前の池で舟遊び</ja_b>
+		<kr_c>경회루에서의 연회</kr_c>
+		<en_c>Banquet at Gyeonghoeru</en_c>
+		<ch_c>庆会楼中的宴会</ch_c>
+		<ja_c>慶会楼での宴会</ja_c>
+	</script>
+	<script>
+		<no>APP-GUI-070</no>
+		<kr_b>수문장청</kr_b>
+		<en_b>Sumunjangchoeng Office</en_b>
+		<ch_b>守门将厅</ch_b>
+		<ja_b>守門将庁</ja_b>
+		<kr_c>궁궐을 지키는 수호자들</kr_c>
+		<en_c>Guardians of the Palace</en_c>
+		<ch_c>守护宫阙的将士</ch_c>
+		<ja_c>宮殿を守る守護者たち</ja_c>
+	</script>
+	<script>
+		<no>APP-GUI-071</no>
+		<kr_b>계조당</kr_b>
+		<en_b>Gyejodang Hall</en_b>
+		<ch_b>继照堂</ch_b>
+		<ja_b>継照堂</ja_b>
+		<kr_c>왕세자의 집무실</kr_c>
+		<en_c>Crown Prince's Office</en_c>
+		<ch_c>王世子处理政务之地</ch_c>
+		<ja_c>皇太子の執務室</ja_c>
+	</script>
+	<script>
+		<no>APP-GUI-072</no>
+		<kr_b>만경전</kr_b>
+		<en_b>Mangyeongjeon Hall</en_b>
+		<ch_b>万庆殿</ch_b>
+		<ja_b>万景殿</ja_b>
+		<kr_c>역사속에 사라진 대왕대비전</kr_c>
+		<en_c>Palace where the grand queen dowager resided, completely demolished in history.</en_c>
+		<ch_c>消失在历史中的大王大妃殿</ch_c>
+		<ja_c>歴史の中に消えた大王大妃殿</ja_c>
+	</script>
+	<script>
+		<no>APP-GUI-073</no>
+		<kr_b>근처에 지도조각이 감지되었습니다.</kr_b>
+		<en_b>A piece of map was detected nearby.</en_b>
+		<ch_b>在附近检测到地图碎片。</ch_b>
+		<ja_b>近くで地図のピースが感知されました。</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-074</no>
+		<kr_b>주변을 둘러보고 장소를 찾아 주세요.
+카메라를 켜 그림과 장소를 화면에 맞추고 터치해주세요.</kr_b>
+		<en_b>Look around and find a place.
+      Turn on the camera and touch the picture and location.</en_b>
+		<ch_b>
+      请环顾周围找个地方。
+      请打开相机，对准画面和场所进行触摸。</ch_b>
+		<ja_b>
+      周辺を見回して場所を探してください。
+      カメラをつけて、絵と場所を画面に合わせてタッチしてください。</ja_b>
+	</script>
+	<script>
+		<no>APP-AR-01-04-01</no>
+		<kr_b>영제교는 속세와 임금의 공간을 나누는 다리로, 입궐하는 신하들은 영제교를 지나며 다리 아래를 흐르는 금천(錦川)에서 부정한 마음을 씻어야 한다.</kr_b>
+		<en_b>Yeongjegyo is a bridge that divides the space between secular life and the king, and those who enter the palace must wash their unclean hearts in Geumcheon, which flows under the bridge through Yeongjegyo.</en_b>
+		<ch_b>永齐桥将王与俗世的空间区分开来。大臣入宫时，需经过永齐桥，并在桥下的锦川中洗去心中的污秽。</ch_b>
+		<ja_b>永済橋は俗世と王の空間を分ける橋で、宮殿に入る臣下は永済橋を通る際、橋の下を流れる錦川で不浄な心を洗い流さなければならない。</ja_b>
+	</script>
+	<script>
+		<no>APP-AR-01-05-01</no>
+		<kr_b>금천(錦川)을 지나가는 영제교 양편의 4군데 석축에는 네 마리의 돌짐승이 물길을 응시하고 있는데 물길을 타고 궁으로 진입하는 나쁜 기운을 경계한다. 이들을 천록(天祿)이라 한다.</kr_b>
+		<en_b>On the four stone pillars on both sides of Yeongjegyo Passing through Geumcheon, four stone animals stare at the water path, wary of the bad energy of riding the water path into the palace. They are called Cheollok.</en_b>
+		<ch_b>横架于锦川之上的永齐桥两边分立着四个石柱，石柱上有四只石兽凝视着锦川之水，警戒着想乘水流进入宫殿里的恶气。它们被称作天禄。</ch_b>
+		<ja_b>錦川を渡る永済橋の両側の4カ所の築石（つきいし）には、4匹の動物が水路を見張り、水路から宮殿に入るという悪い運気を警戒している。 これらを天禄という。</ja_b>
+	</script>
+	<script>
+		<no>CON-AR-01-07-01</no>
+		<kr_b>웬 놈이냐! 너에게는 알 수 없는 기운이 나오는구나! 우리는 사악한 기운으로부터 이곳을 지키는 신수인 천록이다! 근정전을 침범하려는 악한 기운이거들랑 썩 꺼져라! 그렇지 않으면 우리가 크게 혼쭐을 내줄테다!</kr_b>
+		<en_b>Who are you? You've got a strange energy! We are Cheollok, the god of war who protects this place from evil energy! Get rid of the evil spirits trying to invade Geunjeongjeon Hall! Otherwise, we'll get upset!</en_b>
+		<ch_b>来者何人！身上竟散发着不知名的气息！吾等乃守护此方气运的神兽天禄！胆敢侵入勤政殿的恶气立即散去！否则吾等降罪于你！</ch_b>
+		<ja_b>何者だ！ お前から得体の知れない運気が漂っている！
+我々は邪悪な運気からここを守る神獣である天禄だ！ 
+勤政殿に侵入しようとする邪悪な運気は消えろ！　でなければ、ひどい目に遭うぞ！</ja_b>
+	</script>
+	<script>
+		<no>CON-AR-01-08-01</no>
+		<kr_b>어이.  잠깐만. 이 사람에게선 이제껏 없었던 기운이 강하게 뿜어 나오기는 하지만 사악함은 느껴지지 않아. 그리 경계하지 않아도 될 것 같아! 사악한 기운이라면 우리가 모를 리 없지.</kr_b>
+		<en_b>Hey. Wait a minute. There is a strong energy coming out of this person, but I can't feel the wickedness. I don't think you have to be so vigilant! If it's evil, we can't miss it.</en_b>
+		<ch_b>哎嘿，且慢。此人身上确实散发着不知名的气息，但并非恶气。无须警戒！若是恶气，吾等不可能不知。</ch_b>
+		<ja_b>おい、ちょっと待って。 この人には、今までなかった気配が感じられるが、邪悪さは感じられない。そんなに警戒しなくてもいいだろう！邪悪な運気なら、我々に分からぬはずがない。</ja_b>
+	</script>
+	<script>
+		<no>CON-AR-01-10-01</no>
+		<kr_b>이 자물쇠를 풀어 상자를 열면 당신이 찾는 보물이 있을 것이오. 그 보물을 찾은 자만이 이곳 영제교를 지날 수 있소.</kr_b>
+		<en_b>Unlock and open the chest and you will find the treasure you are looking for. Only those who have found the treasure can pass through Yeongje Bridge here.</en_b>
+		<ch_b>该上锁的箱子里有你在找的宝物。只有找到该宝物的人才能通过永齐桥。</ch_b>
+		<ja_b>この錠を外して箱を開けると、あなたが探している宝物があるはずです。
+その宝物を見つけた者だけが、ここ永済橋を通ることができます。</ja_b>
+	</script>
+	<script>
+		<no>APP-AR-01-11</no>
+		<kr_b>자물쇠를 풀어라!</kr_b>
+		<en_b>Unlock!</en_b>
+		<ch_b>把锁打开吧！</ch_b>
+		<ja_b>錠を外せ！</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-075</no>
+		<kr_b>다음목적지 선택</kr_b>
+		<en_b>Select the next destination</en_b>
+		<ch_b>选择下一个目的地</ch_b>
+		<ja_b>次の目的地を選択</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-076</no>
+		<kr_b>오류가 발생되면 마커를 다시 인식시켜 주세요.</kr_b>
+		<en_b>If an error occurs, please reload the marker.</en_b>
+		<ch_b>发生错误时，请重新识别标记。</ch_b>
+		<ja_b>エラーが発生した場合は、マーカーをもう一度認識させてください。</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-077</no>
+		<kr_b>대상물을 잃었습니까? 위치 재설정을 위해 설정버튼을 눌러주세요.</kr_b>
+		<en_b>Have you lost your item? Go to the settings to reset the location.</en_b>
+		<ch_b>目标不见了？请按设定按钮重新设定位置。</ch_b>
+		<ja_b>ターゲットを失いましたか？ 位置再設定のために、設定ボタンを押してください。</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-078</no>
+		<kr_b>원활하고 안전한 AR체험을 위해 주변을 살펴보고 실행하세요.</kr_b>
+		<en_b>Look around and enjoy this AR experience safely and responsibly.</en_b>
+		<ch_b>为了安全地进行AR体验，请留意周围情况。</ch_b>
+		<ja_b>円滑で安全なAR体験のため、周りをよく見て実行してください。</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-079</no>
+		<kr_b>AR 체험을 불러올 위치의 바닥을 탭하세요.</kr_b>
+		<en_b>Tap the icon on the floor for AR experience.</en_b>
+		<ch_b>触摸地上的图标，即可体验AR.</ch_b>
+		<ja_b>底にあるアイコンをタップすると、AR体験ができます.</ja_b>
+	</script>
+	<script>
+		<no>APP-GUI-080</no>
+		<kr_b>지도조각 획득!</kr_b>
+		<en_b>You've won the map piece!</en_b>
+		<ch_b>获得地图碎片！</ch_b>
+		<ja_b>地図のピースをゲット！</ja_b>
+	</script>
+	<script>
+		<no>CON-AR-02-02-01</no>
+		<kr_b>안녕하십니까, 보아하니 이곳은 처음인가 보군요. 여기 앞에 보이는 근정전 안뜰과 품계석에 대해 정9품인 제가 설명해드리지요.</kr_b>
+		<en_b>Hello, apparently this is your first time here. I, the 9th class court official, will explain about Geunjeongjeon Hall courtyard and Pumgyeseok in front of us.</en_b>
+		<ch_b>您好，看来您是第一次来到这里。请让正九品的本官为您介绍勤政殿内院及品阶石。</ch_b>
+		<ja_b>こんにちは、見たところ、ここは初めてのようですね。 
+前に見える勤政殿の中庭と品階石について、正九品の私が説明します。</ja_b>
+	</script>
+	<script>
+		<no>CON-AR-02-02-02</no>
+		<kr_b>근정전 앞마당에서는 대관식, 과거시험, 외국 사신 접견 등 주요 행사가 열렸습니다. 이때 신하들은 앞마당에 놓인 품계석에 따라 자신의 자리를 찾았지요. 앞마당은 얇고 넓고 거칠게 마감된 직사각형의 돌로 포장되어 있어 덜 단조로운 느낌을 주고, 바닥에 반사되는 햇빛을 막아 사람들이 눈부시지 않게 하는 역할을 합니다.</kr_b>
+		<en_b>Major events, such as coronations, qualifying examinations for appointment to court officials, and receiving foreign envoys, were held around Geunjeongjeon Hall. During the functions, court officials found their places according to the rank stones planted on the courtyard. The courtyard is paved with thin, wide and rectangular stones. The surfaces are finished rather roughly, so as to give a less monotonous look and prevent the sun from blinding people standing on the courtyard.</en_b>
+		<ch_b>勤政殿前院主要举行加冕仪式、科举考试、接见外国使臣等活动。 大臣们根据前院摆放的品阶石找到自己的位置。 前院用薄而宽、粗糙的石块铺砌而成,减少单调之感,并具有阻挡地面反射的阳光晃耀人眼的作用。</ch_b>
+		<ja_b>勤政殿の前庭では、戴冠式、科挙の試験、外国からの使臣の引見などの行事が行われました。この時、臣下たちは、前庭に置かれた位階石に従って、自分の場所を探しました。前庭は薄く広く粗く仕上げられた長方形の石で舗装されているので、落ち着いた感じを与え、石に反射する日光を防ぎ、人々を眩しくさせない役割をします。</ja_b>
+	</script>
+	<script>
+		<no>CON-AR-02-03-01</no>
+		<kr_b>여기서부턴 정 3품인 제가 도와드리지요.
+품계석은 조선 시대의 직급인 품계를 새겨서 궁궐 앞뜰에 세운 돌입니다. 좌우로 12개씩 모두 24개가 놓여 있는데, 임금님의 자리에서 보는 기준으로 왼쪽에는 문신들이, 오른쪽에는 무신들이 각 품계석 옆에 서게 됩니다. 그래서 각각 동반과 서반이라고도 합니다. 이 둘을 합쳐 양반이라고 부르지요.</kr_b>
+		<en_b>From here on, I, the officer class 3rd, will help you. 
+The rank stone is a stone paved in the front yard of the palace inscribed with rank, the rank of Joseon Dynasty. There are 24 in total, 12 left and right, and the servants are on the left and warriors on the right are standing next to each rank Stone, based on the king's seat. So, they are also called the east and the west respectively. Together, they are called yangban.</en_b>
+		<ch_b>从现在起，请让正三品的本官为您介绍。
+ 品阶石是刻着朝鲜时代的级别——品阶，立在宫殿前院的石头。 左右各有12个，共24个。从王所在的位置看，左文臣，右武臣，各自站在相应的品阶石旁。 所以大臣们也被称为东班和西班， 合称为两班。</ch_b>
+		<ja_b>ここからは、正三品の私がお手伝いします。
+品階石は、朝鮮時代の職級である品階を刻み、宮殿の前庭に建てた石です。 
+左右に12基ずつ、計24基が置かれていますが、王の座から見ると、左には文臣が、右には武臣が立っています。そのため、これを東班と西班とも言います。この二つを合わせて両班と呼びます。</ja_b>
+	</script>
+	<script>
+		<no>APP-AR-02-03-01</no>
+		<kr_b>임금님, 문관, 무관, 정1품, 종1품.....종3품, 정4품, 정5품...정9품</kr_b>
+		<en_b>King, Civil servants, Military officers, Class 1st senior, Class 1st junior....Class 3rd senior, Class 4th, Class 5th…Class 9th</en_b>
+		<ch_b>君王、文官、武官、正一品、从一品……从三品、正四品、正五品……正九品</ch_b>
+		<ja_b>王、文官、武官、正一品、従一品··· 従三品、正四品、正五品··· 正九品</ja_b>
+	</script>
+	<script>
+		<no>CON-AR-02-04-01</no>
+		<kr_b>제가 조금 더 덧붙여도 될까요? 잘 보면 알겠지만 품계에 따라 입는 옷의 색 또한 다릅니다. 1품에서 3품까지는 홍색, 4품부터 6품까지는 청색, 그리고 7품에서 9품까지는 녹색을 입어 품계를 구분하지요. 저는 임금님 아래 조선의 품계 중 제일 으뜸인 정 1품입니다. 그래서 보시는 바와 같이 홍색을 입고 있지요.
+
+그나저나 내가 오면서 주운 함이 하나 있는데 혹시 이게 당신 것인가요?</kr_b>
+		<en_b>Can I add a little more? As you can see if you look closely, the color of the garments wear varies depending on the officer's class. class 1st to 3rd typically wear red, class 4th to 6th will wear blue whereas class 7th to 9th wear green to distinguish their social status. I am class 1st senior offcer and ranked right beneath the king according to Joseon's officer class rank. That's why I'm wearing red.
+
+By the way, there is a chest that I picked up when I came. Is this yours?</en_b>
+		<ch_b>请让我补充说明。您仔细看就会知道，大臣们品阶不同，穿的官服颜色也不同。 一品到三品是红色，四品到六品是蓝色，七品到九品是绿色，以此区分品阶。 我是君王之下，朝鲜品阶中最高的正一品。 所以正如您所见，我穿的是红色的官服。
+ 
+ 话说回来，我来的时候捡到了一个箱子，是您的吗？</ch_b>
+		<ja_b>私が少し付け加えてもいいですか？　ご覧ください、品階によって着る服の色も違います。 
+一品から三品までは紅色、四品から六品までは青、七品から九品までは緑で品階を区分します。
+私は王の下、朝鮮の品階の最高品、正一品です。 それでこのように、紅色を着ています。
+ところで、帰りに拾った箱が一つあるんですが、もしかしてあなたのですか？</ja_b>
+	</script>
+	<script>
+		<no>APP-AR-02-04</no>
+		<kr_a>1품~3품 홍색</kr_a>
+		<kr_b>4품~6품 청색</kr_b>
+		<en_a>Class 1st - Class 3rd red</en_a>
+		<en_b>Class 4th - Class 6th blue</en_b>
+		<ch_a>一品~三品 红色</ch_a>
+		<ch_b>四品~六品 蓝色</ch_b>
+		<ja_a>一品～三品 紅色</ja_a>
+		<ja_b>四品～六品 青色</ja_b>
+		<kr_c>7품~9품 녹색</kr_c>
+		<en_c>Class 7th - Class 9th green</en_c>
+		<ch_c>七品~九品 绿色</ch_c>
+		<ja_c>七品～九品 緑色</ja_c>
+	</script>
+	<script>
+		<no>APP-AR-02-05</no>
+		<kr_b>품계에 맞게 줄을 서시오!</kr_b>
+		<en_b>Line up according to your ranks!</en_b>
+		<ch_b>请按照品阶站好！</ch_b>
+		<ja_b>品階の順に並びなさい！</ja_b>
+		<kr_c>품계석의 위치를 기반으로 만든 판 위 3개의 빈 곳에 알맞은 품계가 적힌 나무 품계석을 끼워 넣자!</kr_c>
+		<en_c>Let's insert a wooden rank stone with appropriate ranks written on the 3 empty places on the plate made based on the location of the rank stone.</en_c>
+		<ch_c>根据品阶石的位置制作的板上有三个空出来的地方，请将写有品阶的木质品阶石放进正确的位置！</ch_c>
+		<ja_c>品階石の位置を基盤に作った板の上の3つの空いた場所にふさわしい品階が書かれた木の品階石を挟もう！</ja_c>
+	</script>
+	<script>
+		<no>NAR-AR-03-03-01</no>
+		<kr_b>경복궁의 정전인 근정전 영역에서는 조하를 거행하고 외국사신을 맞이하는 국가의 중대한 의식이 거행되었다. 근정전의 격식을 통해 경복궁이 법궁으로서 갖는 위상을 알 수 있다.</kr_b>
+		<en_b>In the area of ​​Geunjeongjeon Hall, the Throne Hall is the canon of Gyeongbokgung Palace, a significant national ceremony was held to celebrate the condolences and welcome foreign envoys. Geunjeongjeon Hall's formality reveals the status of Gyeongbokgung Palace as the king's palace.</en_b>
+		<ch_b>景福宫的正殿——勤政殿主要用于举行国家的重大庆典，接见外国使节等重大外事活动。 从勤政殿的规格可以看出景福宫作为法宫的地位。</ch_b>
+		<ja_b>景福宮の正殿である勤政殿エリアでは、朝賀を行い、外国の使臣を迎える国家の重大な儀式が行われた。 勤政殿の格式からは、景福宮の法宮としての地位が窺える。</ja_b>
+	</script>
+	<script>
+		<no>NAR-AR-03-03-02</no>
+		<kr_b>정전인 근정전은 궁궐 내에서도 가장 규모가 크고 격식을 갖춘 건물로 면적도 가장 넓게 차지하고 있다. 중층으로 된 근정전 건물은 2단의 높은 월대 위에 자리하고 있으며 전면에는 중요행사를 치룰수 있는 넓은마당이 있고, 그 둘레를 행각이 감싸고 있다.</kr_b>
+		<en_b>Geunjeongjeon Hall, the main palace, is the largest and most formal building in the palace and occupies the largest area. The two-storied Geunjeongjeon Hall building is located on Woldae, the high two-tier foundation, and in the front there is a large courtyard where important events can be held, and is surrounded by haengak which are the walls of outhouses.</en_b>
+		<ch_b>作为正殿的勤政殿是宫内规模最大、规格最高的建筑，面积也最大。 勤政殿建于上下月台上，结构为两层的大规模建筑物，正面有可以举办重要活动的宽敞平地，四周设有行阁。</ch_b>
+		<ja_b>正殿である勤政殿は、宮殿の中で最も規模が大きく、格式も高い建物で、面積も最も広い。 重層の勤政殿の建物は、2段の高い月台の上に建っており、前面には重要行事が行われる広い庭があり、その周りを行閣が囲んでいる。</ja_b>
+	</script>
+	<script>
+		<no>NAR-AR-03-03-03</no>
+		<kr_b>근정전은 조선 시대 궁궐의 법전 가운데 유일하게 상월대와 하월대에 난간을 두르고 복을 가져다주는 총 58마리의 동물석상들을 조각해 놓았다. 상월대에는 정 3품 이상의 당상관들만 오를 수 있다.</kr_b>
+		<en_b>The Geunjeongjeon Hall was the only court in the Joseon Dynasty to sculpt a total of 58 statues of animals with railings around Sangwoldae and Hawoldae. In Sangwoldae, only 3 or more dangsanggwan can climb.</en_b>
+		<ch_b>勤政殿是朝鲜时代宫殿的法殿中唯一在上下月台设有栏杆的，栏杆上雕刻有58只象征福气的动物。 三品以上的堂上官才有资格登上上月台。</ch_b>
+		<ja_b>上月台と下月台に欄干をめぐらせ、福をもたらす58匹の動物石像が彫刻されている。上月台には、正三品以上の堂上官だけが登れる。</ja_b>
+	</script>
+	<script>
+		<no>NAR-AR-03-03-04</no>
+		<kr_b>하월대에서는 연회 시 악공들이 연주를 하고 무희들이 춤을 추기도 했다.</kr_b>
+		<en_b>In Hawoldae, musicians performed and dancers danced during banquets.</en_b>
+		<ch_b>在下月台举行宴会时，会有乐工奏乐，舞姬伴舞。</ch_b>
+		<ja_b>下月台では、宴会の際、音楽家たちが演奏し、踊り子たちが踊ったりもした。</ja_b>
+	</script>
+	<script>
+		<no>NAR-AR-03-03-05</no>
+		<kr_b>근정전의 월대를 오르는 중앙 계단인 어계에는 왕이 밟는 길인 답도가 있다. 그러나 실제로 왕은 여라고 불리는 가마를 타고 어계에 설치된 답도 위를 지나갔다. 답도 양쪽에는 정전을 등진 채 앞을 주시하는 해태 4마리가 있는데, 이 자세는 정전에 침입하려는 사악한 기운을 경계하여 왕을 경호하기 위함이다.</kr_b>
+		<en_b>The flight of stairs on the two-tier foundation in Geunjeongjeon Hall is called Woldae, which has stone wall on each side. 
+But in fact, the king rode a palanquin called a yuh and passed over the center of a courtyard, on top of a stone platform.
+There are sculptures of four Haetaes on the both sides looking ahead, but facing their backs on the throne hall to guard the king against the evil spirits.</en_b>
+		<ch_b>勤政殿月台的中央台阶被称作御阶，上有王专用的踏道。 但实际上, 王乘坐被称为舆的轿子经踏道上方而行。踏道两侧有四只背对正殿，注视前方的獬豸。它们保持这个姿势是为了警戒想要侵入正殿的邪恶气息，保护君王。</ch_b>
+		<ja_b>勤政殿の月台を登る中央の階段である御階には、王の踏み道である踏道がある。しかし、実際に王は「ヨ」と呼ばれる輿に乗って、御階に設置された踏道の上を通った。 踏道の両側には、正殿を背に前方を注視するヘッチが4匹いるが、これは正殿に侵入しようとする邪悪な運気を警戒し、王を守るためのものである。</ja_b>
+	</script>
+	<script>
+		<no>APP-AR-03-04-01</no>
+		<kr_b>4방신</kr_b>
+		<en_b>Sabangshin (4-Bangshin)</en_b>
+		<ch_b>四方神</ch_b>
+		<ja_b>四方神</ja_b>
+		<kr_c>동서남북 4방위를 수호하는 신
+
+좌: 청룡 
+우: 백호
+남: 주작
+북: 현무</kr_c>
+		<en_c>Sabangshin is the four deities in charge of four cardinal directions.
+
+Left: Blue Dragon 
+Right: White Tiger
+South: Red Phoenix
+North: Black Tortoise</en_c>
+		<ch_c>守护东西南北四方的守护神
+
+左青龙
+右白虎
+南朱雀
+北玄武</ch_c>
+		<ja_c>東西南北4防衛を守護する神
+
+左:青龍 
+右:白虎
+南:朱雀
+北:玄武</ja_c>
+	</script>
+	<script>
+		<no>NAR-AR-03-04-01</no>
+		<kr_b>청룡, 근정전의 왼쪽, 즉 왕의 동쪽을 수호하는 신수다.</kr_b>
+		<en_b>Cheongnyong : the guard the left side of Geunjeongjeon Hall which is the East of the king.</en_b>
+		<ch_b>青龙，位于勤政殿左方，为保护君王东方之神兽。</ch_b>
+		<ja_b>青龍、勤政殿の左、つまり王の東を守護する神獣である。</ja_b>
+	</script>
+	<script>
+		<no>NAR-AR-03-04-02</no>
+		<kr_b>백호, 근정전의 오른쪽, 즉 왕의 서쪽을 수호하는 신수다.</kr_b>
+		<en_b>Baekho : the guard of the right side of Geunjeongjeon Hall which is West of the king.</en_b>
+		<ch_b>白虎，位于勤政殿右方，为保护君王西方之神兽。</ch_b>
+		<ja_b>白虎、勤政殿の右、つまり王の西を守護する神獣である。</ja_b>
+	</script>
+	<script>
+		<no>NAR-AR-03-04-03</no>
+		<kr_b>주작, 근정전의 앞쪽, 즉 왕의 남쪽을 수호하는 신수다.</kr_b>
+		<en_b>Jujak : the guard of the front of Geunjeongjeon Hall, which is South of the king.</en_b>
+		<ch_b>朱雀，位于勤政殿前方，为保护君王南方之神兽。</ch_b>
+		<ja_b>朱雀、勤政殿の前方、つまり王の南を守護する神獣である。</ja_b>
+	</script>
+	<script>
+		<no>NAR-AR-03-04-04</no>
+		<kr_b>현무, 근정전의 뒷쪽, 즉 왕의 북쪽을 수호하는 신수다.</kr_b>
+		<en_b>Hyunmu : the guard of the back of Geunjeongjeon Hall which is the North of the king.</en_b>
+		<ch_b>玄武，位于勤政殿后方，为保护君王北方之神兽。</ch_b>
+		<ja_b>玄武、勤政殿の後方、つまり王の北を守護する神獣である。</ja_b>
+	</script>
+	<script>
+		<no>APP-AR-03-05-01</no>
+		<kr_b>12지신</kr_b>
+		<en_b>Shibijishin (12-Jishin)</en_b>
+		<ch_b>十二支神</ch_b>
+		<ja_b>十二支神</ja_b>
+		<kr_c>12간지를 대표하는 신
+
+북: 쥐
+남: 말
+좌: 토끼, 뱀, 소
+우: 닭, 양, 원숭이
+
+용은 왕을 뜻함.
+개, 돼지-상스런 동물이라 만들지 않음.</kr_c>
+		<en_c>Shibijishin represents 12 Zodiac signs spirits.  
+
+North: Rat
+South: Horse
+Left: Rabbit, Snake, Cow
+Right: Chicken, Sheep, Monkey
+
+Dragon represents the king.
+Dog and pig are left out since they are considered to be vulgar.</en_c>
+		<ch_c>代表十二干支的神
+
+北：鼠
+南：马
+左：兔、蛇、牛
+右：鸡、羊、猴
+
+因龙象征王。
+狗、猪为卑贱的动物，因此不做体现。</ch_c>
+		<ja_c>十二干支を代表する神
+北：鼠
+南：馬
+左：兎、蛇、牛
+右：鶏、羊、猿
+
+龍は王を意味する。
+犬、豚は品のない動物ということで作らなかった。</ja_c>
+	</script>
+	<script>
+		<no>APP-AR-03-05-02</no>
+		<kr_b>하월대 해태</kr_b>
+		<en_b>Hawoldae(lower foundation) Haetae</en_b>
+		<ch_b>下月台獬豸</ch_b>
+		<ja_b>下月台　ヘテ</ja_b>
+		<kr_c>하월대의 좌우 귀퉁이에 암수해태가 한 쌍씩 있고 각각 새끼해태를 품고 있다.</kr_c>
+		<en_c>There is a pair of male and female Haetae at the left and right corners of Hawoldae, and each has a young Haetae.</en_c>
+		<ch_c>下月台左右两角各有一双獬豸，分别抱着小獬豸。</ch_c>
+		<ja_c>下月台の左右の角に雌雄のヘテが1対（つい）ずつあり、それぞれ子どものヘテを抱いている。</ja_c>
+	</script>
+	<script>
+		<no>APP-AR-03-06-01</no>
+		<kr_b>돌기둥의 동서남북 4면을 모두 체험해야 미션이 시작됩니다.</kr_b>
+		<en_b>The mission begins only after experiencing all four sides of the stone pillars, East, West, North, and South.</en_b>
+		<ch_b>体验石柱东西南北四方，开启任务。</ch_b>
+		<ja_b>石柱の東西南北の四方神をすべて体験したのちに、ミッションが始まります。</ja_b>
+	</script>
+	<script>
+		<no>APP-AR-03-06-02</no>
+		<kr_b>4방신을 찾아보자!</kr_b>
+		<en_b>Let's find the 4-Bangshin!</en_b>
+		<ch_b>找到四方神！</ch_b>
+		<ja_b>四方神を探そう！</ja_b>
+		<ch_c>找一找四方神！</ch_c>
+	</script>
+	<script>
+		<no>CON-AR-03-04-05</no>
+		<kr_b>하월대의 해치들 중 하나가 새끼에게 젖먹이는 것을 봤소?
+이 모두 대를 이어 왕을 수호하고, 왕가의 번영을 바라는 마음이오.
+
+이곳을 들어가려면 신수들의 위치를 잘 파악해서 통과해야하오. 무사히 그들을 통과하면 당신이 원하는 보물을 가질 수 있을 것이오.</kr_b>
+		<en_b>Have you seen one of the Haetaes of Hawoldae feeding their babies?
+All of this is a warmest wishes to protect the king from generation to generation and hopes for the prosperity of the royal family. To enter this place, you need to know the location of the guards and pass through. Go through them safely and you will have the treasure you want.</en_b>
+		<ch_b>下月台的獬豸中，有一只在给孩子喂奶，看到了吗？
+ 这表达了一代又一代的獬豸为保护君王，祈祷王室繁荣昌盛之情。要想通过此处，必须清楚神兽们的位置。只要平安无事地从它们的监视中通过，就能拿到您想要的宝物。</ch_b>
+		<ja_b>下月台のヘチのうちの1匹が、赤ちゃんに乳を飲ませるのを見ましたか？
+これらはすべて、代々、王を守り、王家の繁栄を願う気持ちです。 
+ここに入るときは、神獣たちの位置をよく把握して通過しなければなりません。 
+無事に彼らを通過できれば、宝物を手に入れることができるでしょう。</ja_b>
+	</script>
+	<script>
+		<no>APP-AR-04-00-01</no>
+		<kr_b>근정전으로 들어갈 수 있는 포털이 생성되었습니다. 주변을 둘러 보세요.</kr_b>
+		<en_b>A portal to enter Geunjeongjeon Hall has been created. Look around.</en_b>
+		<ch_b>进入勤政殿的通道已生成。请环视四周。</ch_b>
+		<ja_b>勤政殿に入れるポータルが生成されました。 周辺を見回してください。</ja_b>
+	</script>
+	<script>
+		<no>APP-AR-04-00-02</no>
+		<kr_b>포털을 통해 근정전 안으로 들어갈 수 있습니다.</kr_b>
+		<en_b>You can enter Geunjeongjeon Hall through the portal.</en_b>
+		<ch_b>通过此通道便能进入勤政殿。</ch_b>
+		<ja_b>ポータルを通じて、勤政殿の中に入ることができます。</ja_b>
+	</script>
+	<script>
+		<no>APP-AR-04-00-03-01</no>
+		<kr_b>카메라를 360도로 돌리며 근정전 내부를 둘러보세요.</kr_b>
+		<en_b>Turn the camera 360 degrees and look inside Geunjeongjeon Hall.</en_b>
+		<ch_b>360度转动相机，观看勤政殿内部。</ch_b>
+		<ja_b>360度カメラを回して、勤政殿の内部を見てみましょう。</ja_b>
+	</script>
+	<script>
+		<no>APP-AR-04-00-03-02</no>
+		<kr_b>근정전 내부에 총 4개의 지도가 숨겨져 있습니다. 포털을 통해 이동하며 미션을 해결하세요.</kr_b>
+		<en_b>There are a total of 4 maps hidden inside Geunjeongjeon Hall. Go through the portal and solve missions.</en_b>
+		<ch_b>勤政殿内部藏有四张地图碎片。请通过通道，完成任务。</ch_b>
+		<ja_b>勤政殿の内部には、4つの地図が描かれています。
+ポータルを通じて移動し、ミッションを遂行してください。</ja_b>
+	</script>
+	<script>
+		<no>APP-AR-04-01-01-01</no>
+		<kr_b>일월오봉도의 의미는 왕이 다스리는 나라를 표현한다. 붉은 해는 왕을, 흰 달은 왕비를, 오봉산은 산신에게 제를 올리던 조선의 5대 명산인 금강산, 묘향산, 지리산, 백두산, 삼각산을 그린 것이다.</kr_b>
+		<en_b>The meaning of Ilwol Obongdo expresses the country ruled by the king. The red sun represents the king, the white moon represents the queen, and Obongsan represents the five famous mountains of Joseon, such as Geumgangsan, Myohyangsan, Jirisan, Baekdusan, and Samgaksan.</en_b>
+		<ch_b>日月五峰图象征着王统治的国家。红日代表王，白月代表王妃，而五峰则代表朝鲜的五大名山——金刚山、妙香山、智异山、白头山、三角山。这五大名山曾是祭祀山神的场所。</ch_b>
+		<ja_b>「日月五峰図（イルウォルオボンド）」は、王が治める国を表現している。 
+赤い年は王を、白い月は王妃を、五峰山は山神に祭事を行った朝鮮の五大名山である金剛山（クムガンサン）、妙香山（ミョヒャンサン）、智異山（チリサン）、白頭山（ペクトゥサン）、三角山（サムガクサン）を描いたものだ。</ja_b>
+	</script>
+	<script>
+		<no>APP-AR-04-01-01-02</no>
+		<kr_b>붉은 해 = 왕 
+흰 달 = 왕비 
+오봉산 = 5악(五嶽)-동악(금강산), 서악(묘향산), 남악(지리산), 북악(백두산), 중악(삼각산)</kr_b>
+		<en_b>Red sun = King
+White moon = Queen
+Obongsan = 5 mountains - Dongak (Mt. Geumgang), Seoak (Mt. Myohyang), Namak (Mt. Jirisan), Bukak (Mt. Baekdu), Jungak (Mt. Samgak)</en_b>
+		<ch_b>红日=王
+ 白月=王妃
+ 五峰山=五岳：东岳（金刚山）、西岳（妙香山）、南岳（智异山）、北岳（白头山）、中岳（三角山）</ch_b>
+		<ja_b>赤い太陽 = 王
+白い月 = 王妃
+五峰山 = 五嶽-東岳(金剛山)、西岳(妙香山)、南岳(智異山)、北岳(白頭山)、中岳(三角山)</ja_b>
+	</script>
+	<script>
+		<no>APP-AR-04-01-02-01</no>
+		<kr_b>일월오봉도 틀린그림 찾기</kr_b>
+		<en_b>Spot the difference in Ilwolobongdo</en_b>
+		<ch_b>日月五峰图找不同</ch_b>
+		<ja_b>日月五峰図（イルウォルオボンド）の間違い探し</ja_b>
+	</script>
+	<script>
+		<no>APP-AR-04-01-02-02</no>
+		<kr_b>아래 위의 일월오봉도를
+비교하여 5군데의 다른 부분을 찾아
+아래쪽에 표시하세요.</kr_b>
+		<en_b>Compare the upper and lower Ilwol Obongdo, find 5 different parts and mark them at the bottom.</en_b>
+		<ch_b>将下图与日月五峰图比较，找出五处不同，并在下方标出。</ch_b>
+		<ja_b>上下の日月五峰図を見比べて、5ヶ所の異なる部分を探し、下の方に印をつけてください。</ja_b>
+	</script>
+	<script>
+		<no>APP-AR-04-01-02-03</no>
+		<kr_b>포털을 통해 밖으로 나갈 수 있습니다.</kr_b>
+		<en_b>You can go out through the portal.</en_b>
+		<ch_b>通道可通向外面。</ch_b>
+		<ja_b>ポータルを通じて外に出ることができます。</ja_b>
+	</script>
+	<script>
+		<no>NAR-AR-04-02-01-01</no>
+		<kr_a>닫집</kr_a>
+		<kr_b>닫집은 따로 지어놓은 또 하나의 집이란 의미로 불단이나 어좌 위에 목조건물의 처마구조물처럼 만든 조형물이다.</kr_b>
+		<en_a>Datjip(Canopy)</en_a>
+		<en_b>A canopy is a sculpture made like a wooden eaves structure on a Buddhist altar or a throne, meaning another house built separately.</en_b>
+		<ch_a>唐家</ch_a>
+		<ch_b>唐家意指另外建起的建筑，是指佛坛或御座上方木制的屋檐形部件。</ch_b>
+		<ja_a>タッチプ</ja_a>
+		<ja_b>「タッチプ」は「別に建てたもう一つの家」という意味で、仏壇や御座の上にある木造建築物の軒のような造形物である。</ja_b>
+	</script>
+	<script>
+		<no>NAR-AR-04-02-01-02</no>
+		<kr_a>등널, 곡병</kr_a>
+		<kr_b>닫집 아래 붉은 색과 금색의 화려한 두 개의 목재 구조물 중 앞의 작은 것이 어좌의 등받이인 등널이고 뒤의 것은 곡병이라 부른다. 곡병은 세 방향을 에워싸고 있는 세 폭 병풍과 같은 모양을 취하고 있다.</kr_b>
+		<en_a>Deungneol(Backboard),
+Gokbyeong(Curved folding screen)</en_a>
+		<en_b>Among the two ornate wooden structures of red and gold under the canopy, the small one in the front is called Deungneol, the backrest of the throne and the one in the back is called Gokbyoeng.  The Gokbyeong takes on the shape of a three-width folding screen that surrounds three directions.</en_b>
+		<ch_a>椅背、曲屏</ch_a>
+		<ch_b>唐家下有两个红色和金色的华丽部件。前面小的是御座的椅背，后面的是曲屏。 曲屏呈三面屏风状。</ch_b>
+		<ja_a>背板、曲屏</ja_a>
+		<ja_b>タッチプの下にある、赤い色と金色の華麗な二つの木材構造物のうち、前の小さいものが御座の背もたれである背板で、後ろのものを曲屏（きょくびょう）と呼ぶ。
+曲屏は三方向を取り囲む三幅の屏風のような形をとっている。</ja_b>
+	</script>
+	<script>
+		<no>NAR-AR-04-02-01-03</no>
+		<kr_a>서일상운문</kr_a>
+		<kr_b>둘 다 중앙 머리 부분에 서일상운문이라 불리는 금색의 산 모양을 얹고 있다. 서기어린 햇빛과 상서로운 구름이라는 뜻의 서일상운은 고결한 인품과 기상, 또는 서기 충만한 태평성대를 비유하는 말로, 최고의 상서를 상징하는 장식이다.</kr_b>
+		<en_a>Seoilsangunmun</en_a>
+		<en_b>Both have a golden mountain shape called Seoilsangunmun on the central head. Seoilsangwoon, which means frosty sunlight and auspicious clouds, 
+is a word that compares the noble character and spirit of the Taepyeongseongdae. It is filled with the scholarship, and symbolizes the best decorations.</en_b>
+		<ch_a>瑞日祥云纹</ch_a>
+		<ch_b>两者顶部中央都有被称为瑞日祥云纹的金色山形装饰。 瑞日祥云纹意为蕴含瑞气的阳光和祥和的云彩，比喻高尚的人品以及充满瑞气的太平盛世，是象征最高祥瑞的装饰。</ch_b>
+		<ja_a>瑞日祥雲紋（ずいじつしょううんもん）</ja_a>
+		<ja_b>中央の頭部に瑞日祥雲紋と呼ばれる金色の山の形を載せている。
+瑞気（ずいき）に満ちた太陽と瑞々しい雲という意味の「瑞日祥雲」は、高潔な人柄と気性、明るい太平聖代を例える言葉で、最高の祥瑞（しょうずい）を象徴する装飾である。</ja_b>
+	</script>
+	<script>
+		<no>NAR-AR-04-02-01-04</no>
+		<kr_a>어좌</kr_a>
+		<kr_b>등널과 곡병은 상설물이지만, 용상이라고 부르는 어좌는 정전에 행사가 있을 때마다 새로 설치했다고 한다.</kr_b>
+		<en_a>Eojwa(The throne)</en_a>
+		<en_b>Although the back of a chair and folding screen are permanent, the Eojwa, called Yongsang, is said to have been newly installed every time there is an event in the main hall.</en_b>
+		<ch_a>御座</ch_a>
+		<ch_b>椅背与曲屏是常设部件，但每当正殿举办活动时都会新设被称为龙床的御座。</ch_b>
+		<ja_a>御座（ござ）</ja_a>
+		<ja_b>背板と曲屏（きょくびょう）は常設だが、龍状（ヨンサン）と呼ばれる御座（ござ）は、正殿に行事があるたびに、新しく設置されたという。</ja_b>
+	</script>
+	<script>
+		<no>APP-AR-04-02-02-01</no>
+		<kr_b>어좌를 밝혀라!</kr_b>
+		<en_b>Light up the Eojwa!</en_b>
+		<ch_b>照亮御座！</ch_b>
+		<ja_b>御座を照らせ！</ja_b>
+	</script>
+	<script>
+		<no>APP-AR-04-02-02-02</no>
+		<kr_b>알고 계셨나요?
+
+토마스 에디슨에 의해 최초로 백열전구가 발명된 1879년.
+이로부터 8년 후인 1887년. 바로 이곳 경복궁에서 아시아 역사상 최초의 전기가 점등되었다.
+그리고 11년 후인 1898년. 조선 제 26대 왕인 고종황제에 의해 한국 최초의 발전소가 건립되었다.</kr_b>
+		<en_b>Did you know?
+
+In 1879, the first incandescent light bulb was invented by Thomas Edison.
+1887, eight years later, the first electricity in Asian history was lit up right here in Gyeongbokgung Palace.
+And 11 years later, 1898. Korea's first power plant was built by Emperor Gojong, the 26th king of Joseon.</en_b>
+		<ch_b>您知道吗？
+
+1879年，爱迪生发明了白炽灯。八年后，1887年，景福宫点亮了亚洲史上最早的电灯。
+十一年后，1898年，朝鲜第26代王——高宗皇帝建立了韩国最早的发电所。</ch_b>
+		<ja_b>ご存じでしたか？
+
+トーマス・エジソンによって初めて白熱電球が発明された1879年。
+それから8年後の1887年。まさにここ景福宮でアジア史上初の転機が点灯した。
+そして11年後の1898年、朝鮮第26代王の高宗皇帝によって韓国初の発電所が建てられた。</ja_b>
+	</script>
+	<script>
+		<no>APP-AR-04-02-02-03</no>
+		<kr_b>3개의 전등을 하나씩 터치하면 각각 다른 패턴으로 불이 켜집니다.
+
+패턴을 파악해 모든 전구에 불이 들어오게 하세요.</kr_b>
+		<en_b>Each of the three lamps lights up in a different pattern by touching them one by one.
+
+Identify the pattern and make all of them light up.</en_b>
+		<ch_b>触摸三个电灯，电灯将以不同节奏亮起。
+
+ 掌握节奏，使所有电灯同时亮起。</ch_b>
+		<ja_b>3つの電灯を一つずつタッチすると、それぞれ違うパターンで点灯します。
+
+パターンを把握して、すべての電球に光がつくようにしてください。</ja_b>
+	</script>
+	<script>
+		<no>CON-AR-04-03-01</no>
+		<kr_b>이번에 나라에 큰 역병이 돌아 조선 8도의 많은 백성들이 어려움을 겪고 있다고 상소가 속속히 올라오고있네. 백성들의 고통을 덜어줄 정책을 조속히 시행해보고자 하는데 자네의 생각은 어떤것이 좋겠는가?</kr_b>
+		<en_b>Appeals are coming up one after another that a great plague has returned to the country this time, and many people in the 8th province of Joseon are suffering from difficulties. I want to implement a policy that will alleviate the suffering of the people as soon as possible. What do you think would be good?</en_b>
+		<ch_b>这次瘟疫袭卷全国，使得朝鲜八都的百姓苦不堪言，速报一直不停。需要尽快实行减轻百姓痛苦的政策。你有什么想法？</ch_b>
+		<ja_b>今回、国の疫病のため、朝鮮八道の多くの民衆が困難に直面しているという申し立てがどんどん上がってきている。 民衆の苦痛を和らげる政策を早急に施行しようと思うが、君の考えはどのようなものか？</ja_b>
+	</script>
+	<script>
+		<no>APP-AR-04-03-02-01</no>
+		<kr_b>임금님과의 상참!</kr_b>
+		<en_b>Meeting with the king!</en_b>
+		<ch_b>与王议政！</ch_b>
+		<ja_b>王様との常参！</ja_b>
+	</script>
+	<script>
+		<no>APP-AR-04-03-02-02</no>
+		<kr_a>선택</kr_a>
+		<kr_b>1. 각 지방에서 특산물을 바치는 공납, 나라의 일을 돕는 요역, 그리고 국방의 맡는 군역 등의 세금을 줄여야 합니다.</kr_b>
+		<en_a>Select</en_a>
+		<en_b>1. Taxes must be reduced for public contributions for special products in each province, for helping the country's work, and for military service in charge of national defense.</en_b>
+		<ch_a>选择</ch_a>
+		<ch_b>1. 减少各地需上交的特产、减轻为国效劳的要员以及负责国防的官兵的赋税。</ch_b>
+		<ja_a>選択</ja_a>
+		<ja_b>1。 各地方で特産物を捧げる貢納、国の仕事を手伝う要役、そして国防の軍役などの税金を減らす必要があります。</ja_b>
+		<kr_c>2. 의관들에게 역병의 원인을 연구하도록 왕명을 내려 치료법을 빨리 찾아내게하고, 치료제로 쓰일 약재로 폭리를 취하는 자가 없도록 미리 약재 사재기를 금지하여야 합니다.</kr_c>
+		<en_c>2. It is imperative to give doctors a royal name to study the cause of the plague so that they can quickly find a cure, and to avoid buying medicine in advance so that no one can profitably take advantage of the medicine to be used as a cure.</en_c>
+		<ch_c>2. 传王命要求医官们尽快找出疫病的原因及治疗法，禁止囤积药材，避免有人囤积贩卖救命药材谋取暴利。</ch_c>
+		<ja_c>2。 医官に疫病の原因を研究するよう王命を下し、早く治療法を見つけさせ、薬の材料の買い占めを防ぎ、治療剤として使われる薬で暴利を貪れないようにしなければなりません。</ja_c>
+	</script>
+	<script>
+		<no>APP-AR-04-04-02-01</no>
+		<kr_b>금박을 입힌 목조각으로 발톱이 일곱 개인 칠조룡은 근정전이 무소불위의 지엄한 왕이 주관하는 공간임을 말해준다.</kr_b>
+		<en_b>Chiljoryong, the seven clawed dragon is gold-coated carved wooden statue which is a symbolic space that represents King's invincibility around Geunjeongjeon Hall.</en_b>
+		<ch_b>嵌有金箔的七爪龙木雕象征着勤政殿是至上君王主管的空间。</ch_b>
+		<ja_b>金箔を施した木の彫刻で、足の爪が7つある七爪龍（チルジョリョン）は、勤政殿が無所不為の厳かな王が主管する空間であることを示している。</ja_b>
+		<kr_c>중앙을 나타내는 황룡이 제왕을 상징하는 것으로 왕실의 건물이나 의복, 용품 등에 썼는데, 신분에 따라 발톱의 개수를 다르게 했다.</kr_c>
+		<en_c>Hwangryong, yellow dragon represents King and his palace, building, garments, and supplies. The number of claws on the dragon was different depending on the status.</en_c>
+		<ch_c>中间的黄龙象征帝王，王室的建筑、服装、用品中均有使用。王室成员身份不同，龙纹上龙爪个数也不同。</ch_c>
+		<ja_c>中央を表す黄龍が帝王の象徴であり、王室の建物や衣服、用品などに使われたが、身分によって爪の数が異なる。</ja_c>
+	</script>
+	<script>
+		<no>APP-AR-04-04-02-02</no>
+		<kr_a>제왕은 발톱이 다섯 개인 오조룡을, 태자나 제후왕은 발톱이 네 개인 사조룡을, 세손은 발톱이 세 개인 삼조룡을 써서 구분했다.</kr_a>
+		<kr_b>오조룡은 왕실에서만 그릴 수 있었으며, 민간에서는 사조룡이나 삼조룡만 허락됐다.</kr_b>
+		<en_a>The royal family each own had their representation as the king has five clawed dragon Ojoryong, the crown prince and the queen had four clawed dragon Sajoryong, and the son of the crown prince had three clawed dragon Samjoryong.</en_a>
+		<en_b>Ojoryong could only be painted within the palace, and only Sajoryong or Samjoryong were allowed in the private sectors.</en_b>
+		<ch_a>帝王使用五爪龙纹样，太子及诸侯王使用四爪龙纹样，世孙则使用三爪龙纹样。</ch_a>
+		<ch_b>五爪龙纹样为王室专用，民间被允许使用四爪龙和三爪龙纹样。</ch_b>
+		<ja_a>帝王は足指の爪が5つの五爪龍（オジョリョン）を、太子や諸侯王は足指の爪が4つの四爪龍（サジョリョン）、足指の爪が3つの三爪龍（サムジョリョン）を描き、区分した。</ja_a>
+		<ja_b>五爪龍は王室でのみ描け、民間では四爪龍や三爪龍のみ許可された。</ja_b>
+		<kr_c>근정전 천정의 발톱이 일곱 개인 칠조룡은 강화된 왕권을 대내외적으로 과시하기 위한 의도였다고 해석된다.</kr_c>
+		<en_c>It is interpreted that Chiljoryong, which has seven claws on the ceiling of Geunjeongjeon Hall, intended to show its strengthened royal authority both internally and externally.</en_c>
+		<ch_c>勤政殿天花上的龙为七爪龙，是为了对内外宣示王权强化。</ch_c>
+		<ja_c>勤政殿の天井の、爪が7つある七爪龍は、強化された王権を内外に誇示する意図だったと解釈される。</ja_c>
+	</script>
+	<script>
+		<no>CON-AR-04-04-03</no>
+		<kr_b>용은 왕의 지위를 상징하는 최고의 덕목을 고루 갖춘 존재다. 전설의 용은 모두 81개의 비늘을 몸에 지니고 있는데 그 중에 턱밑에 거꾸로 나 있는 비늘 한 개를 역린이라고 부른다. 용은 엄하지만 너희가 역린만 거스르지 않는다면 용은 늘 너그럽다. 나는 관대함이다~</kr_b>
+		<en_b>The dragon is a creature with the best virtues that symbolize the status of the king. All of the legendary dragons have 81 scales on their body, and one of them, one of which is upside down under the chin, is called dynasty. Dragons are strict, but dragons are always generous if you don't go against them. I am generous.</en_b>
+		<ch_b>龙是象征君王地位的兼具最高品德的存在。 传说龙身上共有81个鳞片，其中下巴下方有一块倒着长的鳞片，被称为逆鳞。 龙虽严厉，但只要你们不触犯逆鳞，龙总是大度的。 我心胸宽广~</ch_b>
+		<ja_b>龍は王の地位を象徴する最高の徳目を備えた存在である。 伝説の龍は全部で81個の鱗を体に持っているが、その他に、顎の下に逆さまにある鱗を逆鱗と呼ぶ。 
+龍は厳しいが、君たちが逆鱗に逆らわなければ、龍はいつも寛大だ。 我しは寛大そのままだ～</ja_b>
+	</script>
+	<script>
+		<no>APP-AR-04-04-04-01</no>
+		<kr_b>칠조룡 이름의 의미는?</kr_b>
+		<en_b>What does the name of the Chiljoryong mean?</en_b>
+		<ch_b>七爪龙名字的含义是？</ch_b>
+		<ja_b>七爪龍の名前の意味は？</ja_b>
+		<kr_c>1. 새 7마리와 함께 다녀서</kr_c>
+		<en_c>1. Going with 7 birds</en_c>
+		<ch_c>1.与七只鸟一起飞的龙</ch_c>
+		<ja_c>1.7羽の鳥と一緒にいるから</ja_c>
+	</script>
+	<script>
+		<no>APP-AR-04-04-04-02</no>
+		<kr_a>2. 발톱이 7개라서</kr_a>
+		<kr_b>3. 7번의 아침(1주일)을 의미</kr_b>
+		<en_a>2. Because there are 7 toenails</en_a>
+		<en_b>3. Means 7 mornings (1 week)</en_b>
+		<ch_a>2. 有七只龙爪的龙</ch_a>
+		<ch_b>3. 意指一周有7个早晨的龙</ch_b>
+		<ja_a>2.爪が7つだから</ja_a>
+		<ja_b>3.7回の朝（1週間）を意味する</ja_b>
+		<kr_c>4. 행운의 숫자 7</kr_c>
+		<en_c>4. Lucky number 7</en_c>
+		<ch_c>4. 幸运数字七</ch_c>
+		<ja_c>4.幸運の数字7</ja_c>
+	</script>
+	<script>
+		<no>CON-AR-05-02</no>
+		<kr_b>나는 경회루를 지키는 용이다. 왕의 명을 받들어 경회루에 불이 나지 않도록 지키는 일을 하고 있지. 나는 물을 다스리고 비를 내리게 할 수 있는 힘을 가지고 있단다.</kr_b>
+		<en_b>I am the dragon guarding Gyeonghoeru Pavilion. At the command of the king, I am working to keep Gyeonghoeru from catching fire. I have the power to control the water and make it rain.</en_b>
+		<ch_b>我是守护庆会楼的龙。受王命守护庆会楼不起火灾。我有司水布雨的能力。</ch_b>
+		<ja_b>私は慶会楼（キョンフェル）を守る龍だ。 王の命を受け、慶会楼に火災が発生しないように守る仕事をしているのだ。 私は水を治めて雨を降らせる力を持っている。</ja_b>
+	</script>
+	<script>
+		<no>CON-AR-05-03</no>
+		<kr_b>보아하니 이 곳 경회루에 대해서 알고 싶어하는 눈치로구나, 내가 손수 이곳에 대해 알려주지. 
+경복궁 경회루는 국보224호로서, 경복궁 서쪽의 연못에 위치한 2층 규모의 누각이다. 사신을 접대하거나 국가적으로 큰 행사가 있을 때 연회를 베푸는 공간으로 국왕이 자신의 집으로 손님을 초대한다는 의미가 있는 곳이지.</kr_b>
+		<en_b>It looks like you want to know about this place, Gyeonghoeru Pavilion, I will tell you about this place.
+Gyeonghoeru Pavilion is a national treasure No. 224, a two-story pavilion located in a pond west of Gyeongbokgung Palace. It is a place where the king invites guests to his house as a space to entertain envoys or to hold banquets when there is a big national event.</en_b>
+		<ch_b>看来你似乎很想了解庆会楼，我亲自为你介绍吧。
+ 景福宫庆会楼是224号国宝，是一座位于景福宫西侧莲花池中的二层楼阁。 这里是接待使臣或举行国家性大型活动时举行宴会的地方。在这里举行宴会有国王邀请客人到自己家里来的意味。</ch_b>
+		<ja_b>見たところ、慶会楼について知りたい様子だな。うん、私が教えてあげよう。
+景福宮慶会楼は国宝第224号で、景福宮の西の池に位置する、2階建ての楼閣である。 
+使臣を接待したり、国家的に大きな行事がある時に宴会を開く空間として、
+国王が、自分の家に客を招待するという意味がある場所なんだ。</ja_b>
+	</script>
+	<script>
+		<no>CON-AR-05-04</no>
+		<kr_b>경회루에는 48개의 기둥이 있고 바깥쪽 기둥은 사각형, 안쪽은 원형 기둥을 하고 있다. 또한 임진왜란으로 소실되기 이전에는 3층 구조에 높이는 31.2m에 48개의 돌기둥에 승천하는 용들이 조각되어 있었다.</kr_b>
+		<en_b>There are 48 pillars in Gyeonghoeru, the outer one is a square, and the inner one is circular. In addition, before being destroyed by the Imjin War, there were sculptures of dragons ascending to 48 stone pillars at 31.2m in a three-story structure.</en_b>
+		<ch_b>庆会楼有四十八根柱子，外侧柱子呈四角形，内侧呈圆形。被毁于壬辰倭乱以前，这里设有三层结构，四十八根高31.2米的石柱，石柱上雕有升天的龙。</ch_b>
+		<ja_b>慶会楼には48本の柱があり、外側の柱は四角形、内側は円形の柱が立っている。 
+また、文禄・慶長の役で焼失する以前は、3階構造の高さ31.2mで、48本の石柱に、昇天する龍が彫刻されていた。</ja_b>
+	</script>
+	<script>
+		<no>CON-AR-05-05</no>
+		<kr_b>원래의 경회루는 경복궁 창건 당시 서쪽 습지에 연못을 파고 세운 작은 누각이었는데, 태종 12년, 그러니까 1412년에 연못을 넓히고 건물도 다시 크게 짓도록 명하여 완성했네. 그 후, 선조 25년이었던 1592년의 임진왜란 때 불타서 돌기둥만 270여 년 남았던 것을 고종 4년 경복궁을 중창할 때 재건했지.</kr_b>
+		<en_b>The original Gyeonghoeru was a small pavilion built by digging a pond in the western wetland when Gyeongbokgung Palace was founded, but in the 12th year of King Taejong, that is, 1412, the pond was expanded and the building was ordered to be rebuilt. After that, during the 1592 invasion of 1592, the 25th year of King Seonjo, only 270 years of stone pillars remained.</en_b>
+		<ch_b>原来的庆会楼是景福宫创建之时，在西侧湿地挖池建的小楼阁。太宗12年，也就是1412年，王下令扩建莲池与建筑。 此后，宣祖25年，即1592年壬辰倭乱时被烧，仅石柱也有270多年的庆会楼于高宗4年，重建景福宫时被一同复建。</ch_b>
+		<ja_b>本来、慶会楼は、景福宮創建当時、西の湿地に池を掘って建てた小さな楼閣だったが、太宗（テジョ）12年、つまり1412年に池を広げ、建物も大きく建てるよう命じて完成した。 その後、宣祖（ソンジョ）25年の1592年、文禄・慶長の役の際に焼失し、石柱だけで270年余り残っていたのを、高宗（コジョン）4年頃に、
+景福宮を建て直す際に再建したんだ。</ja_b>
+	</script>
+	<script>
+		<no>APP-AR-05-06-01</no>
+		<kr_b>경회루의 불을 꺼라!</kr_b>
+		<en_b>Put out the fire of Gyeonghoeru!</en_b>
+		<ch_b>灭掉庆会楼的火！</ch_b>
+		<ja_b>慶会楼の火を消せ！</ja_b>
+	</script>
+	<script>
+		<no>CON-AR-05-06</no>
+		<kr_b>아니? 경회루에 불이?? 경회루에 불을 꺼야 하니 어서 나를 도와주게!</kr_b>
+		<en_b>What? Fire in Gyeonghoeru?? Come, help! I need to put out the fire at Gyeonghoeru!</en_b>
+		<ch_b>不是？庆会楼着火了？？快来帮我灭火！</ch_b>
+		<ja_b>おや？　慶会楼に火が？　慶会楼の火を消すから手伝ってくれ！</ja_b>
+	</script>
+	<script>
+		<no>APP-AR-05-06-02</no>
+		<kr_b>불을 여러 번 터치 해 진화하세요!</kr_b>
+		<en_b>Put out the fire by touching the fire!</en_b>
+		<ch_b>多次点击火进行灭火！</ch_b>
+		<ja_b>火を何度もタッチして鎮火してください。</ja_b>
+	</script>
+	<script>
+		<no>CON-AR-05-07</no>
+		<kr_b>도와줘서 고맙네. 이건 내 자그마한 보답일세.</kr_b>
+		<en_b>Thanks for your help. This is my little reward.</en_b>
+		<ch_b>谢谢你帮我，这是我的一点心意。</ch_b>
+		<ja_b>手伝ってくれてありがとう。 これは私のささやかなお礼だよ。</ja_b>
+	</script>
+	<script>
+		<no>CON-AR-06-02</no>
+		<kr_b>어어이~ 어서오십시오. 이곳은 경회루 연못입니다. 경회루를 중심으로 사시사철 아름다운 풍경을 보여주는 장소지요.</kr_b>
+		<en_b>Hey there! Welcome. This is Gyeonghoeru Pond. It is a place that shows beautiful scenery all year round, centered on Gyeonghoeru.</en_b>
+		<ch_b>哎呀~快请进。这是庆会楼莲池。莲池以庆会楼为中心，一年四季都有美丽风景。</ch_b>
+		<ja_b>いやー、いらっしゃい。 
+ここは慶会楼の池です。 慶会楼を中心に四季折々の美しい風景が見られる場所です。</ja_b>
+	</script>
+	<script>
+		<no>CON-AR-06-03</no>
+		<kr_b>경회루 연못은 천원지방의 형식을 따르지 않고 사각형의 인공 섬을 조성한 것이 특징입니다. 연못의 물은 지하에서 샘이 솟아나고, 북쪽 향원지에서 흐르는 물이 배수로를 타고 동쪽 연못 테두리에 설치된 용두의 입을 통하여 폭포로 떨어지지요.</kr_b>
+		<en_b>Gyeonghoeru Pond is characterized by the creation of a square artificial island that does not follow the format of the Cheonwonjibang. The water in the pond springs from the ground, and the water flowing from the northern Hyangwonji runs through the drainage ditch and falls into the waterfall through the mouth of the crown installed on the border of the eastern pond.</en_b>
+		<ch_b>庆会楼莲池的特点是没有按照天圆地方的形式建造，有一块四角形的人工岛。 莲池中的水，是地下涌出的泉水从北侧香远池流出，再沿着排水渠从东侧池边上的龙口中以瀑布的形态流出。</ch_b>
+		<ja_b>慶会楼の池は、天円地方の形式には従わず、四角形の人工島を造成しているのが特徴です。
+池の水は、地下から泉が湧き出て、北側の香遠池（ヒャンウォンジ）から流れる水が排水路に沿って東側の池の縁（ふち）に設置された、龍頭の口から滝に落ちます。</ja_b>
+	</script>
+	<script>
+		<no>APP-AR-06-03</no>
+		<kr_b>천원지방 (天圓地方) : 하늘은 둥글고 땅은 모나다. 하늘과 땅의 형상에 대한 동아시아 전통 기본 세계관</kr_b>
+		<en_b>Cheonwonjibang (Heavenly Earth) : The sky is round and the earth is angular. East Asian traditional basic worldview of the shape of heaven and earth.</en_b>
+		<ch_b>天圆地方：天是圆的，而地是四方的。这是东亚对天地的传统的基本世界观。</ch_b>
+		<ja_b>天円地方 ー 空は丸く、土は方形。天と地の形状に関する東アジア伝統の基本世界観。</ja_b>
+	</script>
+	<script>
+		<no>CON-AR-06-04</no>
+		<kr_b>저길 보세요. 연못 둘레에는 석연지와 연화대라는 석조물이 있고, 이무기 형상을 새긴 석루조가 있습니다. 연못 서쪽에는 만세산을 조성해서 전국의 화려한 꽃들을 심고 상징적인 작은 모형궁을 만들어 금·은·비단으로 장식하였다고 하지요. 또 왕은 연못 속에 오늘처럼 연꽃을 띄우고 산호를 꽂아 장식하고 황룡주라는 배를 타고 만세산을 왕래했습니다. 제가 타고 있는 이 배가 바로 황룡주지요.</kr_b>
+		<en_b>Look there. There are stone structures called Seokyeonji and Yeonhwadae around the pond, and there is a stone tower with the shape of Imoogi. It is said that Mansesan was built on the west side of the pond to plant colorful flowers from all over the country and a symbolic small model palace was decorated with gold, silver and silk. In addition, the king floated lotus flowers in the pond, decorated with corals, and rode a boat called Hwangnyongju to and from Mansesan Mountain. This ship I'm on is Hwangryongju.</en_b>
+		<ch_b>请看那边。莲花池四周有被称为石莲池和莲花台的石造物，还有刻有大蟒的石漏槽。 莲花池西侧建有万岁山，上面种有来自全国各地的华丽花朵，并建造有象征性意义的小型宫殿，用金、银、绸缎装饰。 像今天一样，王有时会在莲花池中放上莲花，插上珊瑚装饰，乘坐黄龙舟来往于万岁山。 我坐的这艘船就是黄龙舟。</ch_b>
+		<ja_b>あそこを見てください。池の周りには石淵池（ソギョンジ）と蓮花台（ヨンファデ）という石造物があり、大蛇の形を刻んだ石楼槽（ソンルジョ）があります。 池の西には、万歳山（マンセサン）を造成し、全国のきれいな花を植え、象徴的な小さな模型宮を作り、金・銀・絹で装飾したといわれています。また、王は池の中に蓮の花を浮かべ、珊瑚をさして装飾し、黄龍舟（ファンリョンジュ）という船に乗って万歳山を往来しました。 私が乗っているこの船が黄龍舟（ファンリョンジュ）です。</ja_b>
+	</script>
+	<script>
+		<no>APP-AR-06-05-01</no>
+		<kr_b>연꽃속에 무언가가?!</kr_b>
+		<en_b>What's that in the lotus?!</en_b>
+		<ch_b>莲花中有什么？</ch_b>
+		<ja_b>蓮の花の中に何かが！？</ja_b>
+	</script>
+	<script>
+		<no>NAR-AR-06-05</no>
+		<kr_b>으응? 저게 뭐지요? 연꽃 속에 귀해 보이는 무언가가 있는 것 같습니다만..?</kr_b>
+		<en_b>Huh? What is that? There seems to be something precious in the lotus flower..?</en_b>
+		<ch_b>嗯？那是什么？莲花里有看起来很贵重的东西……</ch_b>
+		<ja_b>え？あれは何ですか？ 蓮の花の中に何か珍しそうなものがあるようですが…？</ja_b>
+	</script>
+	<script>
+		<no>APP-AR-06-05-02</no>
+		<kr_b>연못에 떠있는 연꽃을 터치하여 보물함을 건져내자!</kr_b>
+		<en_b>Touch the lotus flower floating in the pond to win the treasure chest!</en_b>
+		<ch_b>点击浮在莲池上的莲花，获取宝箱！</ch_b>
+		<ja_b>池に浮かんでいる蓮の花をタッチして宝箱をすくい取ろう！</ja_b>
+	</script>
+	<script>
+		<no>APP-AR-07-03</no>
+		<kr_b>카메라를 움직여 수문장청을 불러올 장소의 바닥을 비추고 천천히 움직이며 스캔해 주세요.</kr_b>
+		<en_b>Point the camera to the ground and gradually move the camera towards Sumunjangchoeng Office to scan the area.</en_b>
+		<ch_b>移动相机，照向被称为守门将厅的场所地面，慢慢移动扫描。</ch_b>
+		<ja_b>カメラを動かして守門将庁を呼び寄せる場所の床を映し、ゆっくり動きながらスキャンしてください。</ja_b>
+	</script>
+	<script>
+		<no>NAR-AR-07-04</no>
+		<kr_b>국왕의 안전과 국가 안위와 권위를 수호하는 수문장. 궁궐의 문을 지키는 군사들을 한 관청에 소속시켜 통합적으로 지휘하고 관리하는 관청이 바로 수문장청이었다.</kr_b>
+		<en_b>The gateguard who protects the king's safety and national security and authority. They belonged to the department of the gateguards called Sumunjangchoeng Office and were commanded and managed in an integrated manner.</en_b>
+		<ch_b>守护国王安全、国家安危和权威的守门将。守门将厅是统一指挥和管理守卫宫门的官兵的官厅。</ch_b>
+		<ja_b>国王の安寧と、国家の安全と権威を守護する守門将。 宮殿の門を守る兵士たちを、
+一つの官庁に所属させて、統合的に指揮・管理する官庁が守門将庁だった。</ja_b>
+	</script>
+	<script>
+		<no>APP-AR-07-07-01</no>
+		<kr_b>경복궁의 수문장청은 광화문(남문), 건춘문(동문), 영추문(서문), 신무문(북문)에 위치하였으며 수문장의 임무는 궁궐의 문을 지키는 것과 각각의 문을 책임지고 여닫는 것이었다.</kr_b>
+		<en_b>The Sumunjangcheong Offices of Gyeongbokgung Palace were located in Gwanghwamun (South Gate), Geonchunmun (East Gate), Yeongchumun (West Gate), and Sinmumun (North Gate).</en_b>
+		<ch_b>景福宫的守门将厅位于光华门（南门）、建春门（东门）、迎秋门（西门）、神武门（北门）。守门将的任务是守护宫殿的大门和开启关闭各自负责的大门。</ch_b>
+		<ja_b>景福宮の守門将庁は光化門（南門）建春門（東門）迎秋門（西門）神武門（北門）に位置し、守門将の任務は宮殿の門を守ることと、それぞれの門を管理することであった。</ja_b>
+	</script>
+	<script>
+		<no>APP-AR-07-07-02</no>
+		<kr_b>수문장청의 관원은 종6품 수문장 5명과 정7품~종9품의 수문장 18명 등 모두 23명이었다.</kr_b>
+		<en_b>A total of 23 officials were appointed to each Sumunjangcheong Office, including five officials from the class 6th junior and 18 from the class 7th senior to the class 9th junior.</en_b>
+		<ch_b>守门将厅的官员由从六品守门将五人、正七品~从九品守门将十八人组成，共23人。</ch_b>
+		<ja_b>守門将庁の官員は、従六品守門将5人と正七品～従九品の守門将18人の計23人であった。</ja_b>
+	</script>
+	<script>
+		<no>APP-AR-07-08-01</no>
+		<kr_b>4대문을 지켜라!</kr_b>
+		<en_b>Guard the 4 gates!</en_b>
+		<ch_b>守护四大门！</ch_b>
+		<ja_b>四大門を守れ！</ja_b>
+	</script>
+	<script>
+		<no>APP-AR-07-08-02</no>
+		<kr_a>경복궁은 4개의 대문과 그 문을 지키는 수문장청이 있습니다. 각 대문의 위치에 맞게 이름표를 넣어주세요.</kr_a>
+		<kr_b>Q: 경복궁은 4개의 대문과 그 문을 지키는 수문장청이 있습니다. 각 대문의 위치에 맞게 이름표를 넣어주세요.
+A: 건춘문(동), 영추문(서), 광화문(남), 신무문(북)</kr_b>
+		<en_a>Gyeongbokgung Palace has four gates and Sumunjangcheong offices. Please insert a name tag according to the location of each gate.</en_a>
+		<en_b>Q: Gyeongbokgung Palace has four gates and Sumunjangcheong offices. Please insert a name tag according to the location of each gate.
+A: Geonchunmun Gate(East), Yeongchumun Gate(West), Gwanghwamun Gate (South), Shinmumun Gate (North)</en_b>
+		<ch_a>景福宫有四大门及守护大门的守门将厅。请将各大门的名牌正确地放到各大门的位置上。</ch_a>
+		<ch_b>Q：景福宫有四大门及守护大门的守门将厅。请将各大门的名牌正确地放到各大门的位置上。
+ A：建春门（东），迎秋门（西），光华门（南），神武门（北）</ch_b>
+		<ja_a>景福宮には、4つの大門とその門を守る守門将庁があります。
+各大門の位置に合わせて名札を入れてください。</ja_a>
+		<ja_b>Q : 景福宮には、4つの大門とその門を守る守門将庁があります。
+各大門の位置に合わせて名札を入れてください。
+A : 建春門(東)、迎秋門(西)、光化門(南)、神武門(北)</ja_b>
+		<kr_c>건춘문</kr_c>
+		<en_c>Geonchunmun</en_c>
+		<ch_c>建春门</ch_c>
+		<ja_c>建春門</ja_c>
+	</script>
+	<script>
+		<no>APP-AR-07-08-02-2</no>
+		<kr_a>영추문</kr_a>
+		<kr_b>광화문</kr_b>
+		<en_a>Yeongchumun</en_a>
+		<en_b>Gwanghwamun</en_b>
+		<ch_a>迎秋门</ch_a>
+		<ch_b>光华门</ch_b>
+		<ja_a>迎秋門</ja_a>
+		<ja_b>光化門</ja_b>
+		<kr_c>신무문</kr_c>
+		<en_c>Shinmumun</en_c>
+		<ch_c>神武门</ch_c>
+		<ja_c>神武門</ja_c>
+	</script>
+	<script>
+		<no>NAR-AR-08-04</no>
+		<kr_b>계조당이 위치한 동쪽에 자리 잡은 동궁 권역은 왕세자의 공간으로, 외전과 내전을 갖춘 궁궐 속 작은 궁궐이다.</kr_b>
+		<en_b>Donggung area in the east of Gyeongbokgung Palace, where Gyejodang Hall is located, is the crown pince's compound. It consist of the outer court and inner court, essentailly a small palace within the palace.</en_b>
+		<ch_b>东宫区域位于景福宫东侧，内设有继照堂，是王世子居住的空间，是具备外殿和内殿的宫廷中的小宫殿。</ch_b>
+		<ja_b>継照堂に位置する東のエリアは、太子の空間であり、外殿と内殿を備えた宮殿の中の小さな宮殿である。</ja_b>
+	</script>
+	<script>
+		<no>APP-AR-08-07-01</no>
+		<kr_b>경복궁에서 왕세자가 신하들의 조하를 받는 곳. 문종이 세자시절 대리청정을 할 때 나라의 정치를 신하들과 의논하고 집행하는 ‘왕세자의 정당 (집무실)’ 이었다.</kr_b>
+		<en_b>Gyejodang Hall is the throne hall of the Crown Prince's Compound where he and the court officials gathered for weekly meetings at Gyeongbokgung Palace. 
+King Munjong used to use as his main office and he discussed and executed the country's politics with the court officials  in the administration during his crown prince reign as a regent.</en_b>
+		<ch_b>此处是景福宫内，王世子接受大臣们的朝拜，文宗在太子时期进行代理清政时，与大臣们议政的“政堂（执务室）”。</ch_b>
+		<ja_b>景福宮において太子が臣下の朝賀を受け、文宗が太子の時代に代理で政治を行う際、国の政治を臣下と議論し、執行する「政堂（執務室）」であった。</ja_b>
+	</script>
+	<script>
+		<no>APP-AR-08-07-02</no>
+		<kr_b>조선왕조의 권위와 후계의 연속성을 상징하는 가장 중요한 공간이었지만 문종의 유언에 의해 철거되고 고종이 재건하였지만 일제강점기에 훼손되었고, 그 후 100여년 만에 복원 될 예정이다.</kr_b>
+		<en_b>Although it was the most important space to symbolize the authority of the Joseon Dynasty and the continuity of the posterity, it was demolished by King Munjong's will and rebuilt by King Gojong, but it was damaged by Japanese colonial era and will be restored in more than 100 years.</en_b>
+		<ch_b>此处虽是象征朝鲜王朝的权威和继承的最重要的空间,但后来依照文宗的遗言被拆除,高宗时重建，在日本殖民统治时期受损, 100多年后将被复原。</ch_b>
+		<ja_b>朝鮮王朝の権威と後継者の連続性を象徴する最も重要な空間であったが、文宗（ムンジョ）の遺言により撤去され、高宗が再建したが、日本による植民地時代に損傷を受け、その後、約100年ぶりに復元される予定である。</ja_b>
+	</script>
+	<script>
+		<no>APP-AR-08-08-01</no>
+		<kr_b>건춘문을 복원하자!</kr_b>
+		<en_b>Let's restore Geonchunmun!</en_b>
+		<ch_b>复原建春门！</ch_b>
+		<ja_b>建春門を復元しよう！</ja_b>
+	</script>
+	<script>
+		<no>APP-AR-08-08-02</no>
+		<kr_b>계조당으로 드나들 수 있는 건춘문이 군데군데 무너졌습니다.</kr_b>
+		<en_b>Geonchunmun Gate, which can be accessed from Gyejodang Hall, has collapsed in several places.</en_b>
+		<ch_b>通往继照堂的建春门被毁。</ch_b>
+		<ja_b>継照堂に通じる建春門が、所々崩れ落ちました。</ja_b>
+		<kr_c>조각난 부분을 맞춰주세요.</kr_c>
+		<en_c>Match the pieces together.</en_c>
+		<ch_c>请将碎片拼合。</ch_c>
+		<ja_c>割れた部分を合わせてください。</ja_c>
+	</script>
+	<script>
+		<no>NAR-AR-09-04</no>
+		<kr_b>고종 4년 경복궁 자경전의 북쪽에 침전 일대의 전각으로 조성되었다. 고종 13년에 대화재로 내전의 주요 전각이 소실되었다.</kr_b>
+		<en_b>In the fourth year of King Gojong's reign, Mangyeongjeon Hall was built on the northern side of Jagyeongjeon Hall of Gyeongbokgung Palace.
+In the 13th year of King Gojong's reign, the main hall of the outer court was destroyed by the Great Fire.</en_b>
+		<ch_b>高宗4年，在景福宫慈庆殿北侧的寝殿建成，寝殿由一连的殿阁组成，高宗13年大火灾，内殿的主要殿阁被烧毁。</ch_b>
+		<ja_b>高宗4年、景福宮·慈慶殿の北側に寝殿一帯の建物として造成された。 高宗13年に大火により内戦の主要な建物が焼失した。</ja_b>
+	</script>
+	<script>
+		<no>APP-AR-09-07-01</no>
+		<kr_b>주 침전인 강녕전이 대화재 때에 불에 타 없어져 재건하기 전까지 만경전이 정침전의 기능을 대신해 대신과 외국 공사를 접견하고 왕실의 연회와 존호를 올리는 행사를 열었다.</kr_b>
+		<en_b>Gangnyeongjeon Hall was burned down during the Great Fire and until it was rebuilt, 
+Mangyeongjeon Hall held a function of Jeongchimjeon to receive foreign construction work and hold a royal banquet and honor.</en_b>
+		<ch_b>主寝殿康宁殿在大火灾时被烧毁，至康宁殿重建前为止，万庆殿代替主寝殿的功能，接见大臣和外国公使，并举行王室宴会和封赏活动。</ch_b>
+		<ja_b>主寝殿の康寧殿が大火の際に焼失し、再建するまで万慶殿が正寝殿の機能に代わり、大臣と外国の公使に会い、王室の宴会と尊号を捧げる行事が行われた。</ja_b>
+	</script>
+	<script>
+		<no>APP-AR-09-07-02</no>
+		<kr_b>1920년 창덕궁의 대조전과 희정당이 화재로 소실되자, 조선총독부가 경복궁 내 전각을 헐어 그 목재들을 사용하도록 했다. 이리하여 경복궁의 교태전, 강녕전 그리고 만경전은 각각 창덕궁의 대조전, 희정당 그리고 경훈각을 만드는 재료로 쓰였다.</kr_b>
+		<en_b>In 1920, when Daejojeon Hall and Heejeongdang Hall of Changdeokgung Palace were destroyed by fire, the Japanese Government General of Joseon demolished the halls in Gyeongbokgung Palace to use the wood. Thus, Gyotaejeon Hall, Gangnyeongjeon Hall, and Mangyeongjeon Hall in Gyeongbokgung Palace were used as materials to make Daejojeon Hall, Heedang Hall, and Gyeonghoongak Hall in Changdeokgung Palace, respectively.</en_b>
+		<ch_b>1920年昌德宫大造殿和熙政堂被火灾烧毁后，朝鲜总督府拆除了景福宫内的殿阁以使用拆下的木材。 景福宫的交泰殿、康宁殿、万庆殿的材料分别被用来建造昌德宫大造殿、熙政堂和景薰阁。</ch_b>
+		<ja_b>1920年、昌徳宮（チャンドックン）の大造殿（デジョジョン）と熙政堂（ヒジョンダン）が、火災により焼失すると朝鮮総督府が景福宮の殿閣を取り壊し、その木材を使用するようにした。景福宮の交泰殿（ギョッテジョン）康寧殿（カンニョンジョン）万景殿（マンギョンジョン）は、それぞれ昌徳宮の大造殿、熙政堂（ヒジョンダン）景薫閣（ギョンフンガク）を作る材料として使われた。</ja_b>
+	</script>
+	<script>
+		<no>APP-AR-09-08-01</no>
+		<kr_b>네모네모 글자박스!</kr_b>
+		<en_b>Text box the square!</en_b>
+		<ch_b>四四方方字体箱！</ch_b>
+		<ja_b>四角い文字ボックス！</ja_b>
+	</script>
+	<script>
+		<no>APP-AR-09-08-02</no>
+		<kr_b>알맞은 글자들을 순서대로 터치하여 정답을 만드세요.</kr_b>
+		<en_b>Fiddle with the letters in order to create the correct answer.</en_b>
+		<ch_b>按顺序点击字，拼出正确答案。</ch_b>
+		<ja_b>正しい文字を順番にタッチして正解を作りましょう。</ja_b>
+	</script>
+	<script>
+		<no>APP-AR-09-08-03</no>
+		<kr_b>Q: 고종의 임시처소였고 사신들을 위한 연회를 베풀기도 했던 건물은?</kr_b>
+		<en_b>Q: Which building was King Gojong's temporary residence and also held a banquet for envoys?</en_b>
+		<ch_b>Q：高宗的临时住所，为大臣们举行宴会的建筑是？</ch_b>
+		<ja_b>Q : 高宗（コジョン）の臨時住居であり、使臣たちのための宴会を開いたりもした建物は？</ja_b>
+	</script>
+	<script>
+		<no>APP-AR-09-08-04</no>
+		<kr_b>A: 만경전, (샘플글자들:광화문, 경회루, 향원정)</kr_b>
+		<en_b>A: Mangyeongjeon (samples: Gwangwhamun, Gyeonghoeru, Hyangwonjeong)</en_b>
+		<ch_b>A：万庆殿（示例：光华门、庆会楼、香远亭）</ch_b>
+		<ja_b>A : 万景殿、(サンプル文字:光化門、慶会楼、香遠亭、勤政殿)</ja_b>
+	</script>
+	<script>
+		<no>APP-AR-09-09</no>
+		<kr_b>열쇠를 획득하셨군요! 열쇠를 터치해 상자를 열어주세요.</kr_b>
+		<en_b>You've got the key! Touch the key to open the box.</en_b>
+		<ch_b>获得钥匙！点击钥匙打开箱子！</ch_b>
+		<ja_b>鍵をゲットしましたね！ 鍵をタッチして箱を開けてください。</ja_b>
+	</script>
+	<script>
+		<no>Intro-01</no>
+		<kr_b>아주 먼 옛날, 먼 우주의 거대 행성이 폭발하여</kr_b>
+		<en_b>Once upon a time, a giant planet in a distant universe exploded,</en_b>
+		<ch_b>很久很久以前，在遥远的宇宙中，</ch_b>
+		<ja_b>はるか遠い昔、遠い宇宙の巨大惑星が爆発して</ja_b>
+	</script>
+	<script>
+		<no>Intro-02</no>
+		<kr_b>거대한 블랙홀이 형성되었고</kr_b>
+		<en_b>forming a huge black hole,</en_b>
+		<ch_b>一颗巨大的行星爆炸致使黑洞生成，</ch_b>
+		<ja_b>巨大なブラックホールが形成され、</ja_b>
+	</script>
+	<script>
+		<no>Intro-03</no>
+		<kr_b>이로 인해 강력한 중력파가 발생했다.</kr_b>
+		<en_b>resulting in a powerful gravitational wave.</en_b>
+		<ch_b>并产生了巨大的冲击波。</ch_b>
+		<ja_b>これによって強力な重力波が発生した。</ja_b>
+	</script>
+	<script>
+		<no>Intro-04</no>
+		<kr_b>이 강력한 중력파가 바로 어제, 우리 지구에 충돌하며</kr_b>
+		<en_b>Just yesterday, this powerful gravitational wave hit our Earth,</en_b>
+		<ch_b>昨日，冲击波撞击地球，</ch_b>
+		<ja_b>強力な重力波が昨日、我が地球に衝突し、</ja_b>
+	</script>
+	<script>
+		<no>Intro-05</no>
+		<kr_b>시간의 틈이 벌어지고 시공간의 왜곡이 시작되었다.</kr_b>
+		<en_b>opening a gap in time and beginning to distort time and space.</en_b>
+		<ch_b>使地球产生了时间裂缝，时空发生扭曲。</ch_b>
+		<ja_b>時間の隙間ができ、時空間のゆがみが始まった。</ja_b>
+	</script>
+	<script>
+		<no>Intro-06</no>
+		<kr_b>이 틈을 메우려면 강력한 반중력 암흑에너지가 있어야 한다.</kr_b>
+		<en_b>To fill this gap, strong anti-gravity dark energy must be obtained</en_b>
+		<ch_b>要填补该裂缝，必须有强大的反重力暗能量。</ch_b>
+		<ja_b>その隙間を埋めるには、強力な反重力暗黒エネルギーがなければならない。</ja_b>
+	</script>
+	<script>
+		<no>Intro-07</no>
+		<kr_b>안녕하십니까. 시간교정국의 김국장국장입니다.</kr_b>
+		<en_b>Hello there! This is Director Kim, from the Time Correction Bureau.</en_b>
+		<ch_b>各位好，我是时间管理局局长。</ch_b>
+		<ja_b>こんにちは。時間矯正局の局長です。</ja_b>
+	</script>
+	<script>
+		<no>Intro-08</no>
+		<kr_b>우리는 세계의 시공간을 통제하고 관리하는 단체지요.</kr_b>
+		<en_b>We are an organization that controls and manages the space and time of the world.</en_b>
+		<ch_b>时间管理局是管理世界时间与空间的机构。</ch_b>
+		<ja_b>私たちは世界の時空間を統制·管理する団体です。</ja_b>
+	</script>
+	<script>
+		<no>Intro-09</no>
+		<kr_b>우리 단체는 서기 1533년, 조선 제 11대 왕이었던 중종의 재위 28년이 되던 해,</kr_b>
+		<en_b>Our organization began in 1533, the 28th year of the reign of King Jungjong, the 11th king of the Joseon Dynasty,</en_b>
+		<ch_b>我们机构始于公元1533年，即朝鲜第11代王中宗在位的第28年。</ch_b>
+		<ja_b>当団体は、西暦1533年、朝鮮第11代王の中宗が在位28年の年、</ja_b>
+	</script>
+	<script>
+		<no>Intro-10</no>
+		<kr_b>엄청난 유성우와 함께 반중력 암흑에너지를 가지고 있는 운석이</kr_b>
+		<en_b>when a meteor shower and a meteorite with anti-gravity dark energy</en_b>
+		<ch_b>那一年，伴随着巨大的流星雨，</ch_b>
+		<ja_b>おびただしい流星雨とともに、反重力暗黒エネルギーを持つ隕石が</ja_b>
+	</script>
+	<script>
+		<no>Intro-11</no>
+		<kr_b>한양도성에 떨어지면서 시작되었습니다.</kr_b>
+		<en_b>fell in Hanyang the capital city of the Joseon Dynasty.</en_b>
+		<ch_b>具有反重力暗能量的陨石落入汉阳都城。</ch_b>
+		<ja_b>ハニャン都城に落ちたことから始まりました。</ja_b>
+	</script>
+	<script>
+		<no>Intro-12</no>
+		<kr_b>암흑에너지를 두려워한 중종은</kr_b>
+		<en_b>Afraid of the dark energy,</en_b>
+		<ch_b>中宗害怕暗能量，</ch_b>
+		<ja_b>暗黒エネルギーを恐れた中宗は、</ja_b>
+	</script>
+	<script>
+		<no>Intro-13</no>
+		<kr_b>운석을 아무도 손이 닫지 않는 곳에 감추었고,</kr_b>
+		<en_b>King Jungjong hid the meteorite in a place where no one could reach,</en_b>
+		<ch_b>将陨石藏在无人可及的地方，</ch_b>
+		<ja_b>隕石を誰も手が動かない場所に隠し、</ja_b>
+	</script>
+	<script>
+		<no>Intro-14</no>
+		<kr_b>그 장소의 단서인 지도를 분해하여 궁내의 여러 장소에 숨겼지요.</kr_b>
+		<en_b>and destroyed the map, which was the clue to the site, and hid them in various places in the Gyeongbokgung Palace.</en_b>
+		<ch_b>并把唯一的线索——地图拆分为多块，藏在宫内多个场所。</ch_b>
+		<ja_b>その場所の手がかりである地図を切り分けパズルにして、宮内の様々な場所に隠しました。</ja_b>
+	</script>
+	<script>
+		<no>Intro-15</no>
+		<kr_b>우리는 그 단서들을 모두 찾아 운석을 손에 넣었고,</kr_b>
+		<en_b>We found all the clues and took possession of the meteorite,</en_b>
+		<ch_b>我们找到了所有的地图碎片，拿到了陨石，</ch_b>
+		<ja_b>私たちはそのパズルのピースをすべて探し出し、隕石を手に入れ、</ja_b>
+	</script>
+	<script>
+		<no>Intro-16</no>
+		<kr_b>그 힘을 이용하여 세계를 평화롭게 지키고 있었습니다.</kr_b>
+		<en_b>and we were using its power to keep the world at peace.</en_b>
+		<ch_b>并利用陨石的能量守护着世界的和平。</ch_b>
+		<ja_b>その力を利用して、世界の平和を守っていました。</ja_b>
+	</script>
+	<script>
+		<no>Intro-17</no>
+		<kr_b>그러나 어제 발생한 강력한 중력파로 인해, 우리가 가지고 있던 운석이 파괴되어</kr_b>
+		<en_b>But yesterday's powerful gravitational wave shock destroyed the meteorite we had</en_b>
+		<ch_b>可是，昨日由于冲击波的撞击，我们所持的陨石受到破坏，</ch_b>
+		<ja_b>しかし、昨日発生した強力な重力波によって、私たちが持っていた隕石が破壊され、</ja_b>
+	</script>
+	<script>
+		<no>Intro-18</no>
+		<kr_b>시간교정국의 모든 시스템이 마비됐습니다.</kr_b>
+		<en_b>and disabled all our systems.</en_b>
+		<ch_b>时间管理局的所有系统均瘫痪。</ch_b>
+		<ja_b>時間矯正局の全システムが麻痺しました。</ja_b>
+	</script>
+	<script>
+		<no>Intro-19</no>
+		<kr_b>또한 이 충격으로 인해 시공간의 틈이 생겨났고, 이 틈은 지금도 점점 커지고 있어</kr_b>
+		<en_b>The impact also created a gap in time and space, which is still expanding,</en_b>
+		<ch_b>不仅如此，冲击波还导致时空裂缝产生，裂缝正在扩大中，</ch_b>
+		<ja_b>また、この衝撃によって時空間に隙間ができ、この隙間は今もだんだん大きくなっていて、</ja_b>
+	</script>
+	<script>
+		<no>Intro-20</no>
+		<kr_b>앞으로 24시간 후면 돌이킬 수 없는 시간의 왜곡이 생길 것입니다.</kr_b>
+		<en_b>and will create an irreversible distortion of time in the next 24 hours.</en_b>
+		<ch_b>24小时后，由此造成的时间扭曲将无法挽回。</ch_b>
+		<ja_b>これから24時間後には取り返しのつかない時間のゆがみが生じるでしょう。</ja_b>
+	</script>
+	<script>
+		<no>Intro-21</no>
+		<kr_b>한 가지 희망은 당신과 당신이 설치한 이 타임워커 APP입니다.</kr_b>
+		<en_b>You and this Timewalker app is our last hope.</en_b>
+		<ch_b>现在，您与您设置的时空行者APP是我们唯一的希望。</ch_b>
+		<ja_b>一つの希望は、あなたとあなたが設置したタイムウォーカー・アプリです。</ja_b>
+	</script>
+	<script>
+		<no>Intro-22</no>
+		<kr_b>이제 당신은 타임워커로써 APP을 이용해</kr_b>
+		<en_b>Now, as a Timewalker, you can use the app</en_b>
+		<ch_b>您将作为时空行者，</ch_b>
+		<ja_b>これからは、タイムウォーカーとしてアプリを利用して</ja_b>
+	</script>
+	<script>
+		<no>Intro-23</no>
+		<kr_b>행성 폭발이 일어나지 않은 당신만의 평행 세계로 들어가</kr_b>
+		<en_b>to go into your own parallel world where there's no planet explosion,</en_b>
+		<ch_b>利用APP回到行星爆炸前您所在的平行世界，</ch_b>
+		<ja_b>惑星爆発が起きていない、あなただけの平行世界に入り、</ja_b>
+	</script>
+	<script>
+		<no>Intro-24</no>
+		<kr_b>암흑운석을 찾고, 그 힘을 이용해 시공간의 틈을 제거해야합니다.</kr_b>
+		<en_b>find a dark meteorite. You should use that power to eliminate void in time and space.</en_b>
+		<ch_b>找到暗陨石，并利用它的能量消除时空裂缝。</ch_b>
+		<ja_b>暗黒隕石を探し、その力を利用して時空の隙間を消さなければなりません。</ja_b>
+	</script>
+	<script>
+		<no>Intro-25</no>
+		<kr_b>시간교정국에서 제공하는 미니맵을 이용하면 어렵지 않게 단서들을 찾을 수 있을 것입니다.</kr_b>
+		<en_b>Using the minimap provided by the Time Correction Bureau, you will be able to find clues easily.</en_b>
+		<ch_b>时间管理局将为您提供迷你地图，它将帮助您找到暗陨石的线索。</ch_b>
+		<ja_b>時間矯正局が提供するミニマップを利用すれば、簡単に地図のピースを見つけることができるでしょう。</ja_b>
+	</script>
+	<script>
+		<no>Intro-26</no>
+		<kr_b>부디 늦지않게 돌아와 시공간의 왜곡을 막아주기 바랍니다.</kr_b>
+		<en_b>Please come back in time to restore time and space.</en_b>
+		<ch_b>请您一定要及时赶回来，阻止时空扭曲的发生！</ch_b>
+		<ja_b>どうか、遅れずに戻ってきて、時空間がゆがまないよう防いでください。</ja_b>
+	</script>
+	<script>
+		<no>Extra-01</no>
+		<kr_b>▲ 정해진찬도병, '근정전진하도'
+(丁亥進饌圖屛, '勤政殿陳賀圖') 
+대왕대비인 신정왕후(고종의 양어머니)의 팔순을 기념하기 위한 진하의식</kr_b>
+		<en_b>▲Court Officials Offering Congratulations. 
+
+A ceremony at Geunjeongjeon Hall to celebrate the 80th birthday for Queen Sinjeong. She was King Gojong's adoptive mother.</en_b>
+		<ch_b>丁亥進饌圖屛中， 勤政殿陳賀圖</ch_b>
+		<ja_b>丁亥進饌圖屛, “勤政殿陳賀圖</ja_b>
+	</script>
+	<script>
+		<no>Extra-02</no>
+		<kr_b>▲ 세종대왕 즉위의례 재현행사, 경복궁 근정전 
+1418년 8월 10일 : 세종대왕이 근정전에서 즉위하여 
+백관들의 하례를 받은 날</kr_b>
+		<en_b>▲A reenactment of King Sejong's coronationon the 10th of Aug.
+
+by the lunar calendar in 1418. It shows court officials congratulating the king who is on the throne in Geunjeongjeon Hall.</en_b>
+		<ch_b>世宗大王即位仪式再现活动，景福宫勤政殿</ch_b>
+		<ja_b>世宗大王即位儀礼の再現行事、景福宮勤政殿</ja_b>
+	</script>
+	<script>
+		<no>Extra-03</no>
+		<kr_b>기축년진찬도병 중 자경전내진찬
+순조의 40세 생일을 기념하기 위한 내전잔치 행사</kr_b>
+		<en_b>Jagyeongjeonnaejinchan : A ceremony at Jagyeongjeon Hall to celebrate the 40th birthday for King Soonjo.</en_b>
+		<ch_b>己丑年进馔图屛中，慈庆殿内进馔图</ch_b>
+		<ja_b>己丑年进馔图屛の慈慶殿內進饌図</ja_b>
+	</script>
+	<script>
+		<no>Extra-04</no>
+		<kr_b>다음</kr_b>
+		<en_b>Next</en_b>
+		<ch_b>下一个</ch_b>
+		<ja_b>つぎ</ja_b>
+	</script>
+	<script>
+		<no>Extra-05</no>
+		<kr_b>확인</kr_b>
+		<en_b>Accept</en_b>
+		<ch_b>查看</ch_b>
+		<ja_b>確認</ja_b>
+	</script>
+	<script>
+		<no>Extra-06</no>
+		<kr_b>이전</kr_b>
+		<en_b>Back</en_b>
+		<ch_b>上一个</ch_b>
+		<ja_b>以前</ja_b>
+	</script>
+	<script>
+		<no>Extra-07</no>
+		<kr_b>아래 영역을 선택해주세요.</kr_b>
+		<en_b>Please select the area below.</en_b>
+		<ch_b>请选择以下领域。</ch_b>
+		<ja_b>以下の領域を選択してください。</ja_b>
+	</script>
+	<script>
+		<no>Extra-08</no>
+		<kr_b>종류</kr_b>
+		<en_b>Type</en_b>
+		<ch_b>种类</ch_b>
+		<ja_b>種類</ja_b>
+	</script>
+	<script>
+		<no>Extra-09</no>
+		<kr_b>임금님이 흡족해 합니다.</kr_b>
+		<en_b>The king is satisfied with your answer.</en_b>
+		<ch_b>国王很满意。</ch_b>
+		<ja_b>王様が満足しています。</ja_b>
+	</script>
+	<script>
+		<no>Extra-10</no>
+		<kr_b>경고</kr_b>
+		<en_b>Warning</en_b>
+		<ch_b>警告</ch_b>
+		<ja_b>警告</ja_b>
+	</script>
+	<script>
+		<no>Extra-11</no>
+		<kr_b>기본 이미지</kr_b>
+		<en_b>Base Image</en_b>
+		<ch_b>基本照片</ch_b>
+		<ja_b>基本写真</ja_b>
+	</script>
+	<script>
+		<no>Extra-12</no>
+		<kr_b>타임워커</kr_b>
+		<en_b>Timewalker</en_b>
+		<ch_b>时空行者</ch_b>
+		<ja_b>タイムウォーカー</ja_b>
+	</script>
+	<script>
+		<no>Extra-13</no>
+		<kr_b>VR 영상 체험</kr_b>
+		<en_b>VR Video Experience</en_b>
+		<ch_b>VR视频体验</ch_b>
+		<ja_b>VR映像体験</ja_b>
+	</script>
+	<script>
+		<no>Extra-14</no>
+		<kr_b>영상 목록</kr_b>
+		<en_b>Video List</en_b>
+		<ch_b>视频列表</ch_b>
+		<ja_b>ビデオ·リスト</ja_b>
+	</script>
+	<script>
+		<no>Extra-15</no>
+		<kr_b>지도판</kr_b>
+		<en_b>Mapboard</en_b>
+		<ch_b>地图板</ch_b>
+		<ja_b>マップボード</ja_b>
+	</script>
+	<script>
+		<no>Extra-16</no>
+		<kr_b>이름</kr_b>
+		<en_b>Name</en_b>
+		<ch_b>名气</ch_b>
+		<ja_b>名前</ja_b>
+	</script>
+	<script>
+		<no>Extra-17</no>
+		<kr_b>시간교정국</kr_b>
+		<en_b>Time Correction Bureau</en_b>
+		<ch_b>时间矫正局</ch_b>
+		<ja_b>時間校正局</ja_b>
+	</script>
+	<script>
+		<no>Extra-18</no>
+		<kr_b>다음</kr_b>
+		<en_b>Next</en_b>
+		<ch_b>下一个</ch_b>
+		<ja_b>つぎ</ja_b>
+	</script>
+	<script>
+		<no>Extra-19</no>
+		<kr_b>확인</kr_b>
+		<en_b>Accept</en_b>
+		<ch_b>查看</ch_b>
+		<ja_b>確認</ja_b>
+	</script>
+	<script>
+		<no>Extra-20</no>
+		<kr_b>이전</kr_b>
+		<en_b>Back</en_b>
+		<ch_b>上一个</ch_b>
+		<ja_b>以前</ja_b>
+	</script>
+	<script>
+		<no>Extra-21</no>
+		<kr_b>아래 영역을 선택해주세요.</kr_b>
+		<en_b>Please select the area below.</en_b>
+		<ch_b>请选择以下领域。</ch_b>
+		<ja_b>以下の領域を選択してください。</ja_b>
+	</script>
+	<script>
+		<no>Extra-22</no>
+		<kr_b>종류</kr_b>
+		<en_b>Type</en_b>
+		<ch_b>种类</ch_b>
+		<ja_b>種類</ja_b>
+	</script>
+	<script>
+		<no>Extra-23</no>
+		<kr_b>임금님이 흡족해 합니다.</kr_b>
+		<en_b>The king is satisfied with your answer.</en_b>
+		<ch_b>国王很满意。</ch_b>
+		<ja_b>王様が満足しています。</ja_b>
+	</script>
+	<script>
+		<no>Extra-24</no>
+		<kr_b>지도완성</kr_b>
+		<en_b>Map is complete</en_b>
+		<ch_b>地图完成了。</ch_b>
+		<ja_b>地図が完成しました。</ja_b>
+	</script>
+	<script>
+		<no>Extra-25</no>
+		<kr_b>휴대폰을 위로 향하여 바라봐주세요.</kr_b>
+		<en_b>Please look up at your phone.</en_b>
+		<ch_b>请向上看手机。</ch_b>
+		<ja_b>携帯電話を上を向いてご覧ください。</ja_b>
+	</script>
+	<script>
+		<no>Extra-26</no>
+		<kr_b>터치하여 운석을 획득하십시오.</kr_b>
+		<en_b>Touch to acquire the meteorite.</en_b>
+		<ch_b>请触摸获得陨石。</ch_b>
+		<ja_b>タッチして隕石を獲得してください。</ja_b>
+	</script>
+	<script>
+		<no>Extra-27</no>
+		<kr_b>스페이스 게이트를 통과하십시오.</kr_b>
+		<en_b>Go through the space gate.</en_b>
+		<ch_b>请通过太空口岸。</ch_b>
+		<ja_b>スペースゲートを通過してください。</ja_b>
+	</script>
+	<script>
+		<no>Extra-28</no>
+		<kr_b>시공간의 틈을 메워주세요.</kr_b>
+		<en_b>Please eliminate the gap in time and space.</en_b>
+		<ch_b>去掉时间和空间的空隙。</ch_b>
+		<ja_b>時空間の隙間を埋めてください。</ja_b>
+	</script>
+	<script>
+		<no>Extra-29</no>
+		<kr_b>시공간의 틈이 사라졌고 당신은 세계를 구해냈습니다!
+시간교정국은 당신에게 마스터 자격과 수료증을 부여했습니다.
+세계의 영웅이 되신것을 축하합니다!</kr_b>
+		<en_b>The gap has been eliminated and you've saved the world!
+The Time correction bureau has granted you the master qualification and certificate.
+Congratulations on becoming a world hero!</en_b>
+		<ch_b>时空的缝隙消失了，你拯救了世界。
+时间管理局给你颁发了大师资格和结业证书。
+恭喜你成为世界英雄!</ch_b>
+		<ja_b>時空間の隙間が消え、あなたは世界を救いました！
+時間矯正局はあなたにマスター資格と修了証を与えました。
+世界の英雄になったことをおめでとうございます！</ja_b>
+	</script>
+	<script>
+		<no>Extra-30</no>
+		<kr_b>(이곳을 터치하여 컨텐츠를 진행하세요.)</kr_b>
+		<en_b>Touch here to proceed the content.</en_b>
+		<ch_b>请触摸这里进行内容。</ch_b>
+		<ja_b>ここにタッチしてコンテンツを進めてください。</ja_b>
+	</script>
+	<script>
+		<no>Extra-31</no>
+		<kr_b>경복궁 내에서 진행해주세요.</kr_b>
+		<en_b>Please proceed inside Gyeongbokgung Palace.</en_b>
+		<ch_b>请在景福宫内实行。</ch_b>
+		<ja_b>キョンボックン内で実行してください。</ja_b>
+	</script>
+	<script>
+		<no>Extra-32</no>
+		<kr_b>화살표 방향을 따라 영제교로 이동하세요.</kr_b>
+		<en_b>Follow the direction of the arrow to the Yeongjegyo Bridge.</en_b>
+		<ch_b>沿着箭头方向向永济桥移动。</ch_b>
+		<ja_b>矢印の方向に沿って永済橋に移動してください。</ja_b>
+	</script>
+	<script>
+		<no>Extra-33</no>
+		<kr_b>화살표 방향을 따라 품계석 생성 위치로 이동하세요.</kr_b>
+		<en_b>Follow the direction of the arrow to the location where you create the rank stone.</en_b>
+		<ch_b>沿着箭头方向移动到品阶石生成位置。</ch_b>
+		<ja_b>矢印の方向に沿って品階石生成位置に移動してください。</ja_b>
+	</script>
+	<script>
+		<no>Extra-34</no>
+		<kr_b>화살표 방향을 따라 상하월대 신수 생성 위치로 이동하세요.
+-&gt;화살표 방향을 따라 월대 콘텐츠 생성 위치로 이동하세요.</kr_b>
+		<en_b>Follow the direction of the arrow to the location where you create Woldae content.</en_b>
+		<ch_b>沿着箭头方向移动到月台内容生成位置。</ch_b>
+		<ja_b>矢印の方向に沿って月台コンテンツ生成位置に移動してください。</ja_b>
+	</script>
+	<script>
+		<no>Extra-35</no>
+		<kr_b>화살표 방향을 따라 컨텐츠 생성 위치로 이동하세요.</kr_b>
+		<en_b>Follow the direction of the arrow to the location where you create the content.</en_b>
+		<ch_b>沿着箭头方向移动到内容生成位置。</ch_b>
+		<ja_b>矢印の方向に沿ってコンテンツ生成位置に移動してください。</ja_b>
+	</script>
+	<script>
+		<no>Extra-36</no>
+		<kr_b>화살표 방향을 따라 AR마커로 이동하세요.</kr_b>
+		<en_b>Follow the direction of the arrow to the AR marker.</en_b>
+		<ch_b>沿着箭头方向移动到AR标志。</ch_b>
+		<ja_b>矢印の方向に沿ってARマーカーへ移動してください。</ja_b>
+	</script>
+	<script>
+		<no>Extra-37</no>
+		<kr_b>이미 사진을 찍는 중입니다.
+-&gt;카메라가 이미 작동중입니다.</kr_b>
+		<en_b>The camera is already working.</en_b>
+		<ch_b>相机已经启动了。</ch_b>
+		<ja_b>カメラが既に作動中です。</ja_b>
+	</script>
+	<script>
+		<no>Extra-38</no>
+		<kr_b>사진을 저장하기 위해 저장소 권한이 필요합니다.
+-&gt;사진을 저장하기위해 폴더 접근 권한이 필요합니다.</kr_b>
+		<en_b>App requires access authority to the folder to save the picture.
+-&gt;Allow the app to take pictures and access photos on your device.</en_b>
+		<ch_b>允许应用程序在你的设备上拍照和访问照片。</ch_b>
+		<ja_b>デバイス内の写真へのアクセスをAPPに許可します。</ja_b>
+	</script>
+	<script>
+		<no>Extra-39</no>
+		<kr_b>권한 요청을 거절하여 사진을 저장할 수 없습니다.</kr_b>
+		<en_b>Permission request has been denied and the pictures cannot be saved.</en_b>
+		<ch_b>权限请求被拒绝，照片无法保存。</ch_b>
+		<ja_b>権限要請が拒絶されて写真を保存できません。</ja_b>
+	</script>
+	<script>
+		<no>Extra-40</no>
+		<kr_b>권한 필요</kr_b>
+		<en_b>Permission Requirement</en_b>
+		<ch_b>权限需要</ch_b>
+		<ja_b>権限必要</ja_b>
+	</script>
+	<script>
+		<no>Extra-41</no>
+		<kr_b>권한 설정하기</kr_b>
+		<en_b>Permission Settings</en_b>
+		<ch_b>权限设定</ch_b>
+		<ja_b>権限設定</ja_b>
+	</script>
+	<script>
+		<no>Extra-42</no>
+		<kr_b>허락</kr_b>
+		<en_b>Allow</en_b>
+		<ch_b>许可</ch_b>
+		<ja_b>許可</ja_b>
+	</script>
+	<script>
+		<no>Extra-43</no>
+		<kr_b>거절</kr_b>
+		<en_b>Deny</en_b>
+		<ch_b>不许可</ch_b>
+		<ja_b>許可しない</ja_b>
+	</script>
+	<script>
+		<no>Extra-44</no>
+		<kr_b>근정전 천장에 있는 칠조룡을 찾아보세요!</kr_b>
+		<en_b>Find Chiljoryong on the ceiling of Geunjeongjeon Hall!</en_b>
+		<ch_b>我们找找勤政殿天花板上的七爪龙吧！</ch_b>
+		<ja_b>勤政殿の天井にある七爪龍を探してみましょう！</ja_b>
+	</script>
+	<script>
+		<no>Extra-45</no>
+		<kr_b>사진이 저장되었습니다.
+(나가기 버튼을 누르면 다음으로 진행됩니다)</kr_b>
+		<en_b>The picture has been saved.
+(Press Exit button to move next.)</en_b>
+		<ch_b>这幅画已经保存下来了。
+(按下"离开"按钮,下一步移动。)</ch_b>
+		<ja_b>写真が保存されました。
+退出するボタンを押すと次へ進みます。</ja_b>
+	</script>
+	<script>
+		<no>Extra-46</no>
+		<kr_b>성공 시 지도를 획득할 수 있습니다.</kr_b>
+		<en_b>Map can be obtained upon successful mission.</en_b>
+		<ch_b>成功时可获得地图。</ch_b>
+		<ja_b>成功すると、マップを獲得できます。</ja_b>
+	</script>
+	<script>
+		<no>Extra-47</no>
+		<kr_b>더 멀리 인식해주세요</kr_b>
+		<en_b>Please recognize it further.</en_b>
+		<ch_b>请识别得更远</ch_b>
+		<ja_b>もっと遠く認識してください。</ja_b>
+	</script>
+	<script>
+		<no>Extra-48</no>
+		<kr_b>미션을 수행하면 타임워커 마스터 등급으로 승격되며 경복궁 지킴이로 임명합니다.</kr_b>
+		<en_b>After completing the mission, you will be promoted to the master level of Time Walker and will be appointed as a guardian of Gyeongbokgung Palace.</en_b>
+		<ch_b>执行任务时升格为空行者大师等级，并任命其为景福宫守护者。</ch_b>
+		<ja_b>ミッションを遂行するとタイムウォーカーマスターに昇格し、景福宮の守護神に任命されます。</ja_b>
+	</script>
+	<script>
+		<no>Extra-49</no> 
+		<kr_b>경복궁 지킴이로 임명합니다.</kr_b>
+		<en_b>I appoint you as the guardian of Gyeongbokgung Palace.</en_b>
+		<ch_b>任命你为景福宫的守护者</ch_b>
+		<ja_b>あなたを景福宮の番人に任命します。</ja_b>
+	</script>
+	<script>
+		<no>Extra-50</no>
+		<kr_b>정 1품</kr_b>
+		<en_b>Class 1st</en_b>
+		<ch_b>一品</ch_b>
+		<ja_b>一品</ja_b>
+	</script>
+	<script>
+		<no>Extra-51</no>
+		<kr_b>정 3품</kr_b>
+		<en_b>Class 3st</en_b>
+		<ch_b>三品</ch_b>
+		<ja_b>三品</ja_b>
+	</script>
+	<script>
+		<no>Extra-52</no>
+		<kr_b>정 9품</kr_b>
+		<en_b>Class 9st</en_b>
+		<ch_b>九品</ch_b>
+		<ja_b>九品</ja_b>
+	</script>
+	<script>
+		<no>Extra-53</no>
+		<kr_b>등록증 확인</kr_b>
+		<en_b>Check registration card</en_b>
+		<ch_b>查看注册证</ch_b>
+		<ja_b>登録証を確認</ja_b>
+	</script>
+	<script>
+		<no>Extra-54</no>
+		<kr_b>아래 주의사항을 확인하세요</kr_b>
+		<en_b>Please check the precautions below.</en_b>
+		<ch_b>请检查以下注意事项。</ch_b>
+		<ja_b>以下の注意事項をご確認ください。</ja_b>
+	</script>
+	<script>
+		<no>Extra-55</no>
+		<kr_b>미션
+설명</kr_b>
+		<en_b>Mission 
+		Description</en_b>
+		<ch_b>任务
+说明</ch_b>
+		<ja_b>ミッションの
+説明</ja_b>
+	</script>
+	<script>
+		<no>Extra-56</no>
+		<kr_b>시작</kr_b>
+		<en_b>Start</en_b>
+		<ch_b>开始</ch_b>
+		<ja_b>スタート</ja_b>
+	</script>
+	<script>
+		<no>Extra-57</no>
+		<kr_b>바코드 확인</kr_b>
+		<en_b>Barcode Verification</en_b>
+		<ch_b>条形码确认</ch_b>
+		<ja_b>バーコード確認</ja_b>
+	</script>
+	<script>
+		<no>Extra-58</no>
+		<kr_b>정말 사용하시겠습니까?</kr_b>
+		<en_b>Are you sure you want to use it?</en_b>
+		<ch_b>真的要使用吗？</ch_b>
+		<ja_b>本当に使用しますか。</ja_b>
+	</script>
+	<script>
+		<no>Extra-59</no>
+		<kr_b>취소</kr_b>
+		<en_b>Cancel</en_b>
+		<ch_b>取消</ch_b>
+		<ja_b>キャンセル</ja_b>
+	</script>
+	<script>
+		<no>Extra-60</no>
+		<kr_b>리플릿 을 인식해주세요</kr_b>
+		<en_b>Please recognize the leaflet.</en_b>
+		<ch_b>请识别传单</ch_b>
+		<ja_b>リーフレットをご認識ください。</ja_b>
+	</script>
+	<script>
+		<no>Extra-61</no>
+		<kr_b>지도 위에 있는 단서를 클릭해주세요</kr_b>
+		<en_b>Click a clue on the map.</en_b>
+		<ch_b>点击地图上的线索</ch_b>
+		<ja_b>地図上のヒントをクリックします。</ja_b>
+	</script>
+	<script>
+		<no>Extra-62</no>
+		<kr_b>등이 켜지는 순서대로 클릭 하세요</kr_b>
+		<en_b>Click in the order in which the lights are turned on.</en_b>
+		<ch_b>按开灯的顺序点击。</ch_b>
+		<ja_b>照明がつく順番にクリックします。</ja_b>
+	</script>
+	<script>
+		<no>Extra-63</no>
+		<kr_b>알림</kr_b>
+		<en_b>Notification</en_b>
+		<ch_b>通知。</ch_b>
+		<ja_b>お知らせ</ja_b>
+	</script>
+	<script>
+		<no>Extra-64</no>
+		<kr_a>북: 쥐</kr_a>
+		<kr_b>좌: 토끼</kr_b>
+		<en_a>North: Rat</en_a>
+		<en_b>Left: Rabbit</en_b>
+		<ch_a>北：鼠</ch_a>
+		<ch_b>左：兔</ch_b>
+		<ja_a>北：鼠</ja_a>
+		<ja_b>左：兎</ja_b>
+		<kr_c>좌: 소</kr_c>
+		<en_c>Left: Cow</en_c>
+		<ch_c>左：牛</ch_c>
+		<ja_c>左：牛</ja_c>
+	</script>
+	<script>
+		<no>Extra-65</no>
+		<kr_a>좌: 뱀</kr_a>
+		<kr_b>남: 말</kr_b>
+		<en_a>Left: Snake</en_a>
+		<en_b>South: Horse</en_b>
+		<ch_a>左：蛇</ch_a>
+		<ch_b>南：马</ch_b>
+		<ja_a>左：蛇</ja_a>
+		<ja_b>南：馬</ja_b>
+		<kr_c>남: 호랑이</kr_c>
+		<en_c>South: Tiger</en_c>
+		<ch_c>南：虎</ch_c>
+		<ja_c>南：虎</ja_c>
+	</script>
+	<script>
+		<no>Extra-66</no>
+		<kr_a>우: 양</kr_a>
+		<kr_b>우: 원숭이</kr_b>
+		<en_a>Right: Sheep</en_a>
+		<en_b>Right: Monkey</en_b>
+		<ch_a>右：羊</ch_a>
+		<ch_b>右：猴</ch_b>
+		<ja_a>右：羊</ja_a>
+		<ja_b>右：猿</ja_b>
+		<kr_c>우: 닭</kr_c>
+		<en_c>Right: Chicken</en_c>
+		<ch_c>右：鸡</ch_c>
+		<ja_c>右：鶏</ja_c>
+	</script>
+	<script>
+		<no>Extra-67</no>
+		<kr_a>개, 돼지-상스런 동물이라 만들지 않음.</kr_a>
+		<en_a>Dog and pig are left out since they are considered to be vulgar.</en_a>
+		<ch_a>狗、猪为卑贱的动物，因此不做体现。</ch_a>
+		<ja_a>犬、豚は品のない動物ということで作らなかった。</ja_a>
+	</script>
+	<script>
+		<no>Extra-68</no>
+		<kr_b>카메라 버튼을 눌러 사진을 촬영해주세요.</kr_b>
+		<en_b>Please press the camera button to take a picture.</en_b>
+		<ch_b>请按下相机按钮拍照。</ch_b>
+		<ja_b>写真が保存されました。 退出するボタンを押すと次へ進みます。</ja_b>
+	</script>
+  <script>
+    <no>Poom-0</no>
+    <kr_a>임금님</kr_a>
+    <en_a>King</en_a>
+    <ch_a>君王</ch_a>
+    <ja_a>王</ja_a>
+    <kr_b>문관</kr_b>
+    <en_b>    Civil servants    </en_b>
+    <ch_b>文官</ch_b>
+    <ja_b>文官</ja_b>
+    <kr_c>무관</kr_c>
+    <en_c>Military officers</en_c>
+    <ch_c>武官</ch_c>
+    <ja_c>武官</ja_c>
+  </script>
+  <script>
+    <no>Poom-1</no>
+    <kr_a>정1품</kr_a>
+    <en_a>Class 1st senior</en_a>
+    <ch_a>正一品</ch_a>
+    <ja_a>正一品</ja_a>
+  </script>
+  <script>
+    <no>Poom-2</no>
+    <kr_a>종1품</kr_a>
+    <en_a>Class 1st junior</en_a>
+    <ch_a>从一品</ch_a>
+    <ja_a>従一品</ja_a>
+  </script>
+  <script>
+    <no>Poom-3</no>
+    <kr_a>정2품</kr_a>
+    <en_a>Class 2rd senior</en_a>
+    <ch_a>正二品</ch_a>
+    <ja_a>正二品</ja_a>
+  </script>
+  <script>
+    <no>Poom-4</no>
+    <kr_a>종2품</kr_a>
+    <en_a>Class 2rd junior</en_a>
+    <ch_a>从二品</ch_a>
+    <ja_a>従二品</ja_a>
+  </script>
+  <script>
+    <no>Poom-5</no>
+    <kr_a>정3품</kr_a>
+    <en_a>Class 3rd senior</en_a>
+    <ch_a>正三品</ch_a>
+    <ja_a>正三品</ja_a>
+  </script>
+  <script>
+    <no>Poom-6</no>
+    <kr_a>종3품</kr_a>
+    <en_a>Class 3rd junior</en_a>
+    <ch_a>从三品</ch_a>
+    <ja_a>従三品</ja_a>
+  </script>
+  <script>
+    <no>Poom-7</no>
+    <kr_a>정4품</kr_a>
+    <en_a>Class 4th senior</en_a>
+    <ch_a>正四品</ch_a>
+    <ja_a>正四品</ja_a>
+  </script>
+  <script>
+    <no>Poom-8</no>
+    <kr_a>정5품</kr_a>
+    <en_a>Class 5th senior</en_a>
+    <ch_a>正五品</ch_a>
+    <ja_a>正五品</ja_a>
+  </script>
+  <script>
+    <no>Poom-9</no>
+    <kr_a>정6품</kr_a>
+    <en_a>Class 6th senior</en_a>
+    <ch_a>正六品</ch_a>
+    <ja_a>正六品</ja_a>
+  </script>
+  <script>
+    <no>Poom-10</no>
+    <kr_a>정7품</kr_a>
+    <en_a>Class 7th senior</en_a>
+    <ch_a>正七品</ch_a>
+    <ja_a>正七品</ja_a>
+  </script>
+  <script>
+    <no>Poom-11</no>
+    <kr_a>정8품</kr_a>
+    <en_a>Class 8th senior</en_a>
+    <ch_a>正八品</ch_a>
+    <ja_a>正八品</ja_a>
+  </script>
+  <script>
+    <no>Poom-12</no>
+    <kr_a>정9품</kr_a>
+    <en_a>Class 9th senior</en_a>
+    <ch_a>正九品</ch_a>
+    <ja_a>正九品</ja_a>
+  </script>
+</Root>
